@@ -2,6 +2,11 @@
 
 ## Supported Versions
 
+Latest Github's page.
+# Security Policy
+
+## Supported Versions
+
 The project is supported through the following browsers:
 
 | Browser | Supported          |
