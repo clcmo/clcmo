@@ -1,6 +1,6 @@
 # Hello, I'm Camila L. Oliveira 👩🏻‍🦰
 
-[![Banner](docs/images/banner.svg)](https://taggo.one/clcmo)
+[![Banner](https://github.com/clcmo/clcmo/blob/main/docs/images/banner.svg)](https://taggo.one/clcmo)
 
 ------------
 
@@ -16,7 +16,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 | ----------------- | ------------------| -------------------------------|
 | Postgraduate, Lato-Sensu, in Artificial Intelligence (PUC-SP) | Android Mobile Engineering and Development (Full - ⭐⭐) (BRQ + Itaú and Robert Half + PagBank PagSeguro) |  I'm learning about Google Analytics and AWS, architetures, modules, and Flutter;
 | Technologist in Systems Analysis and Development (FATEC-SP) | Android Mobile Engineering and Development (Junior - ⭐) (TCS + Itaú) | I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
-| Bachelor in Public Administration (UFOP-MG) | Mobile Development Assistant - Android (TCS + Itaú) <br/> Mobile Development Trainee - Android (TCS + Itaú) <br/> Internship in Systems Analysis and Development (ETEC Antonio Furlan) </br> Two internships in Public Administration (CETESB and RR Business) | I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music. |
+| Bachelor in Public Administration (UFOP-MG) | Mobile Development Assistant - Android (TCS + Itaú) | I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music. 
+| | Mobile Development Trainee - Android (TCS + Itaú) | 
+| | Internship in Systems Analysis and Development (ETEC Antonio Furlan) | 
+| | Two internships in Public Administration (CETESB and RR Business)  | |
+
 
 ------------
 
@@ -24,7 +28,12 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 | Control Versions |  Frontend | Backend | Skills |
 |------------------| --------- | ------- | ------ |
-| [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#) [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#) | [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](#)  [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](#)  [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=Android&logoColor=white)](#) <br/> [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](#)  [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=) | [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white)](#) [![Wordpress](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)](#) | [![Planning](https://img.shields.io/badge/planning-red?style=for-the-badge&logo=Trello&logoColor=white)](#) [![Kanban](https://img.shields.io/badge/kanban-violet?style=for-the-badge&logo=Jira&logoColor=white)](#)  [![Architetures](https://img.shields.io/badge/architetures-grey?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#) <br/> [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-blueviolet?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#) |
+| [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#) | [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=) | [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=js&sort=) | [![Planning](https://img.shields.io/badge/planning-red?style=for-the-badge&logo=Trello&logoColor=white)](#)
+| [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#) | [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=) | [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) | [![Kanban](https://img.shields.io/badge/kanban-violet?style=for-the-badge&logo=Jira&logoColor=white)](#)
+| [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#) |  [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=Android&logoColor=white)](#) | [![Wordpress](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)](#) | [![Architetures](https://img.shields.io/badge/architetures-grey?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
+| | [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=) | | [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-blueviolet?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
+| | [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=)  | | 
+| | [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=) | |
 
 </br>
 
