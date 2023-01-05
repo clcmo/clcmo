@@ -1,6 +1,12 @@
-# Hello, I'm Camila L. Oliveira 👩🏻‍🦰
-
-[![Banner](https://github.com/clcmo/clcmo/blob/main/docs/images/banner.svg)](https://taggo.one/clcmo)
+<table>
+  <tr>
+    <td width="50%">
+      <h1> Hello, I'm Camila L. Oliveira 👩🏻‍🦰</h1>
+    <td>
+        <a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/blob/main/docs/images/banner.svg" alt="Banner"/></a>
+    </td>
+  </tr>
+  </table>
 
 ------------
 
@@ -14,7 +20,7 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 |  🏫 Education     | 🖥️ Works           | 📚 Learnings, Hobbies and More |
 | ----------------- | ------------------| -------------------------------|
-| Postgraduate, Lato-Sensu, in Artificial Intelligence (PUC-SP) | Android Mobile Engineering and Development (Full - ⭐⭐) (BRQ + Itaú and Robert Half + PagBank PagSeguro) |  I'm learning about Google Analytics and AWS, architetures, modules, and Flutter;
+| Postgraduate, Lato-Sensu, in Artificial Intelligence (PUC-SP) | Android Mobile Engineering and Development (Full - ⭐⭐) (Itaú; Robert Half + PagBank PagSeguro; and BRQ + Itaú) |  I'm learning about Google Analytics and AWS, architetures, modules, and Flutter;
 | Technologist in Systems Analysis and Development (FATEC-SP) | Android Mobile Engineering and Development (Junior - ⭐) (TCS + Itaú) | I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
 | Bachelor in Public Administration (UFOP-MG) | Mobile Development Assistant - Android (TCS + Itaú) | I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music. 
 | | Mobile Development Trainee - Android (TCS + Itaú) | 
