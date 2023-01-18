@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h1> Hello, I'm Camila L. Oliveira 👩🏻‍🦰</h1>
+      <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello, I'm Camila L. Oliveira 👩🏻‍🦰</h1>
     <td>
         <a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/blob/main/docs/images/banner.svg" alt="Banner"/></a>
     </td>
@@ -10,11 +10,9 @@
 
 ------------
 
-
-
 <details>
   <summary>
-  <h2>About Me</h2>
+  <h2>👩‍🦰 About Me</h2>
   </summary>
   
 I have a degree in Public Administration, I worked in the area, but if there's one thing I've discovered, it's that I have the vocation to develop software - and dreams too - in addition to communicating.
@@ -55,9 +53,14 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 | Statistics | Languages |
 |------------| ---------|
 | [![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/clcmo) | [![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clcmo&layout=compact&langs_count=8&theme=algolia)](https://github.com/clcmo) |
+
 </details>
 
 ------------
+
+<details>
+<summary><h2>Camila's Updates</h2></summary>
+
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
@@ -66,3 +69,9 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 - [O Rei Faleceu, Vida Longa ao Rei](https://prensa.li/@clcmo/o-rei-faleceu-vida-longa-ao-rei)
 - [Os Hermanos Merecem – e ele Me&lpar;re&rpar;ssi](https://prensa.li/@clcmo/os-hermanos-merecem-e-ele-meressi/)
 <!-- BLOG-POST-LIST:END -->
+
+### On Her YouTube (in Portuguese)
+
+### On Her GitHub
+
+</details>
