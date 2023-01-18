@@ -46,3 +46,7 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 | Statistics | Languages |
 |------------| ---------|
 | [![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/clcmo) | [![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clcmo&layout=compact&langs_count=8&theme=algolia)](https://github.com/clcmo) |
+
+### On Her Blog (in Portuguese)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
