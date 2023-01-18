@@ -72,6 +72,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her YouTube (in Portuguese)
 <!-- YOUTUBE:START -->
+- [Destiny 2_20221226225442](https://www.youtube.com/watch?v=gGDdalEaHVU)
+- [Jogando GT ao vivo](https://www.youtube.com/watch?v=_qQlRJ88-Do)
+- [Jogando GT ao vivo](https://www.youtube.com/watch?v=7nVUf4nCIzk)
+- [Injustice 2_20221021145827](https://www.youtube.com/watch?v=HJS0fKK8yko)
+- [Injustice 2_20221021145659](https://www.youtube.com/watch?v=0nnull6Tx3M)
 <!-- YOUTUBE:END -->
 
 ### On Her GitHub
