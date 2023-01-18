@@ -1,5 +1,5 @@
 name: Lastest Posts Workflow
-on:
+on: [push]
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          readme_path : ./docs/README.md
           max_post_count: "4"
           remove_duplicates: true
           feed_list: "https://feeds.feedburner.com/feedcamila"
