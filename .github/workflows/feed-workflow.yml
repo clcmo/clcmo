@@ -1,5 +1,5 @@
 name: Lastest Posts Workflow
-on: [push]
+on: 
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
