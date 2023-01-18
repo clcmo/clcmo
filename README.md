@@ -49,4 +49,8 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
+- [O Brasil de 2023 e a busca do equilíbrio](https://prensa.li/@clcmo/o-brasil-de-2023-e-a-busca-do-equilibrio)
+- [Novos horizontes e os desafios tecnológicos](https://prensa.li/@clcmo/novos-horizontes-e-os-desafios-tecnologicos)
+- [O Rei Faleceu, Vida Longa ao Rei](https://prensa.li/@clcmo/o-rei-faleceu-vida-longa-ao-rei)
+- [Os Hermanos Merecem – e ele Me&lpar;re&rpar;ssi](https://prensa.li/@clcmo/os-hermanos-merecem-e-ele-meressi/)
 <!-- BLOG-POST-LIST:END -->
