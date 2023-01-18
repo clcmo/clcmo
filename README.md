@@ -10,9 +10,13 @@
 
 ------------
 
-## About Me
+
 
 <details>
+  <summary>
+  <h2>About Me</h2>
+  </summary>
+  
 I have a degree in Public Administration, I worked in the area, but if there's one thing I've discovered, it's that I have the vocation to develop software - and dreams too - in addition to communicating.
 
 Today I work in application development, an experience that started in earnest in 2019, and I also enjoy learning and teaching. In addition to writing on websites and blogs (and there are three, well segmented: a personal one, a musical one and a tech one), I have just over 1000 followers in the three largest social networks.
@@ -32,8 +36,10 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ------------
 
-## 🖥️ Technologies and Skills
 <details>
+  <summary>
+  <h2>🖥️ Technologies and Skills</h2>
+  </summary>
 
 | Control Versions |  Frontend | Backend | Skills |
 |------------------| --------- | ------- | ------ |
