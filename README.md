@@ -12,6 +12,7 @@
 
 ## About Me
 
+<details>
 I have a degree in Public Administration, I worked in the area, but if there's one thing I've discovered, it's that I have the vocation to develop software - and dreams too - in addition to communicating.
 
 Today I work in application development, an experience that started in earnest in 2019, and I also enjoy learning and teaching. In addition to writing on websites and blogs (and there are three, well segmented: a personal one, a musical one and a tech one), I have just over 1000 followers in the three largest social networks.
@@ -27,10 +28,12 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 | | Internship in Systems Analysis and Development (ETEC Antonio Furlan) | 
 | | Two internships in Public Administration (CETESB and RR Business)  | |
 
+</details>
 
 ------------
 
 ## 🖥️ Technologies and Skills
+<details>
 
 | Control Versions |  Frontend | Backend | Skills |
 |------------------| --------- | ------- | ------ |
@@ -46,6 +49,9 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 | Statistics | Languages |
 |------------| ---------|
 | [![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/clcmo) | [![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clcmo&layout=compact&langs_count=8&theme=algolia)](https://github.com/clcmo) |
+</details>
+
+------------
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG-POST-LIST:START -->
