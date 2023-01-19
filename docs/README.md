@@ -72,11 +72,14 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
-<!-- YOUTUBE:START -->
-- [Destiny 2_20221226225442](https://www.youtube.com/watch?v=gGDdalEaHVU)
-- [Jogando GT ao vivo](https://www.youtube.com/watch?v=_qQlRJ88-Do)
-- [Injustice 2_20221021145827](https://www.youtube.com/watch?v=HJS0fKK8yko)
-- [Injustice 2_20221021145659](https://www.youtube.com/watch?v=0nnull6Tx3M)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gGDdalEaHVU"><img width="140px" src="https://i.ytimg.com/vi/gGDdalEaHVU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gGDdalEaHVU">Destiny 2_20221226225442</a><br/>Dec 27, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do"><img width="140px" src="https://i.ytimg.com/vi/_qQlRJ88-Do/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do">Jogando GT ao vivo</a><br/>Oct 26, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HJS0fKK8yko"><img width="140px" src="https://i.ytimg.com/vi/HJS0fKK8yko/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HJS0fKK8yko">Injustice 2_20221021145827</a><br/>Oct 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0nnull6Tx3M"><img width="140px" src="https://i.ytimg.com/vi/0nnull6Tx3M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0nnull6Tx3M">Injustice 2_20221021145659</a><br/>Oct 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### On Her GitHub
