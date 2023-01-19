@@ -145,11 +145,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)<br>
-2. ❗️ Opened issue [#189](https://github.com/gautamkrishnar/blog-post-workflow/issues/189) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)<br>
-3. ⭐ Starred [bravoborja/ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)<br>
-4. ❗️ Opened issue [#58](https://github.com/bravoborja/ReadMoreTextView/issues/58) in [bravoborja/ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/marvel-challenge](https://github.com/clcmo/marvel-challenge)<br>
+1. ⭐ Starred [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
+2. ⭐ Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)<br>
+3. ❗️ Opened issue [#189](https://github.com/gautamkrishnar/blog-post-workflow/issues/189) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)<br>
+4. ⭐ Starred [bravoborja/ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)<br>
+5. ❗️ Opened issue [#58](https://github.com/bravoborja/ReadMoreTextView/issues/58) in [bravoborja/ReadMoreTextView](https://github.com/bravoborja/ReadMoreTextView)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
