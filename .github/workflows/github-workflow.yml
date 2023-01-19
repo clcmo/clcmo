@@ -1,4 +1,3 @@
-name: Update User Readme for GitHub Updates
 name: ${{ github.actor }} is updated your github
 
 on:
