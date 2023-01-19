@@ -50,9 +50,8 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 </br>
 
-| Statistics | Languages |
-|------------| ---------|
-| [![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/clcmo) | [![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clcmo&layout=compact&langs_count=8&theme=algolia)](https://github.com/clcmo) |
+### Recently, she worked on
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 </details>
 
