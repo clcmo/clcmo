@@ -133,14 +133,14 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk"><img width="140px" src="https://i.ytimg.com/vi/LMZ6nu2wDXk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk">Exemplo de App criado em Flutter para Android</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mPbHteaCD6o"><img width="140px" src="https://i.ytimg.com/vi/mPbHteaCD6o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mPbHteaCD6o">Exemplo de App criado em Flutter para iOS</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gGDdalEaHVU"><img width="140px" src="https://i.ytimg.com/vi/gGDdalEaHVU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gGDdalEaHVU">Conhecendo o jogo Destiny 2</a><br/>Dec 27, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do"><img width="140px" src="https://i.ytimg.com/vi/_qQlRJ88-Do/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do">Jogando GT ao vivo</a><br/>Oct 26, 2022</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td width="25%"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk"><img width="140px" src="https://i.ytimg.com/vi/LMZ6nu2wDXk/mqdefault.jpg"></a></td>
+<td width="75%"><a href="https://www.youtube.com/watch?v=LMZ6nu2wDXk">Exemplo de App criado em Flutter para Android</a><br/>Jan 19, 2023</td></tr></table>
+<table><tr><td width="25%"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o"><img width="140px" src="https://i.ytimg.com/vi/mPbHteaCD6o/mqdefault.jpg"></a></td>
+<td width="75%"><a href="https://www.youtube.com/watch?v=mPbHteaCD6o">Exemplo de App criado em Flutter para iOS</a><br/>Jan 19, 2023</td></tr></table>
+<table><tr><td width="25%"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU"><img width="140px" src="https://i.ytimg.com/vi/gGDdalEaHVU/mqdefault.jpg"></a></td>
+<td width="75%"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU">Conhecendo o jogo Destiny 2</a><br/>Dec 27, 2022</td></tr></table>
+<table><tr><td width="25%"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do"><img width="140px" src="https://i.ytimg.com/vi/_qQlRJ88-Do/mqdefault.jpg"></a></td>
+<td width="75%"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do">Jogando GT ao vivo</a><br/>Oct 26, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### On Her GitHub
