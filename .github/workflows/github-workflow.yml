@@ -3,16 +3,15 @@ name: Update User Readme for GitHub Updates
 on:
   schedule:
     - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: ${{ github.actor }} is updated your github
       - uses: actions/checkout@v1
-      - uses: JasonEtco/activity-box@master
+      - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: clcmo
-          GIST_ID: 3ab373949137af206fedcbf305cfd8fe
