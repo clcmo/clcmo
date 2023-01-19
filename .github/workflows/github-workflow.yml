@@ -1,4 +1,4 @@
-name: ${{ github.actor }} is updated your github
+name: Update User Readme for GitHub Updates
 
 on:
   schedule:
@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
+  name: ${{ github.actor }} is updated your github
   build:
     runs-on: ubuntu-latest
     steps:
