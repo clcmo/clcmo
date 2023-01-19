@@ -15,7 +15,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           settings:
-              username: clcmo
+              username: "clcmo"
               commit_msg: "⚡ Update README with the recent activity"
               max_lines: 5
               readme_file: ./docs/README.md
