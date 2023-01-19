@@ -16,7 +16,7 @@ jobs:
         with:
           settings:
               #username: "clcmo"
-              commit_msg: "⚡ Update README with the recent activity"
+              #commit_msg: "⚡ Update README with the recent activity"
               max_lines: 5
               readme_file: ./docs/README.md
               disabled_events:
