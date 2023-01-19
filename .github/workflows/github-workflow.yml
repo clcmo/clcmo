@@ -10,12 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v1
+      - uses: JasonEtco/activity-box@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          readme_path : ./docs/README.md
-          COMMIT_MSG: 'A new update in @${{ github.actor }} GitHub'
-          MAX_LINES: 10
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: clcmo
+          GIST_ID: 3ab373949137af206fedcbf305cfd8fe
