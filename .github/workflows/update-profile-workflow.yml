@@ -1,4 +1,4 @@
-name: GitHub - Activity - Readme
+name: Update User Readme for GitHub Updates
 
 on:
   schedule:
@@ -14,3 +14,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          readme_path : ./docs/README.md
+          COMMIT_MSG: 'A new update in @${{ github.actor }} GitHub'
+          MAX_LINES: 10
