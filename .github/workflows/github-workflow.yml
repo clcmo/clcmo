@@ -1,4 +1,5 @@
 name: Update User Readme for GitHub Updates
+name: ${{ github.actor }} is updated your github
 
 on:
   schedule:
@@ -8,9 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: ${{ github.actor }} is updated your github
       - uses: actions/checkout@v1
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
