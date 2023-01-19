@@ -80,7 +80,7 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 <!-- YOUTUBE:END -->
 
 ### On Her GitHub
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 </details>
