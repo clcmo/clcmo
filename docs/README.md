@@ -20,35 +20,97 @@ I have a degree in Public Administration, I worked in the area, but if there's o
 Today I work in application development, an experience that started in earnest in 2019, and I also enjoy learning and teaching. In addition to writing on websites and blogs (and there are three, well segmented: a personal one, a musical one and a tech one), I have just over 1000 followers in the three largest social networks.
 
 I also have knowledge in two more languages: English and French, and I aim, in addition to continuing to improve myself, to be able to teach people who are curious and willing to get to know this so rich area that is technology.
+  
+<details>
+  <summary>
+  <h3> 🏫 Education </h3>
+  </summary>
+  
+* Postgraduate, Lato-Sensu, in Artificial Intelligence <br/>(PUC-SP)
+* Technologist in Systems Analysis and Development <br/>(FATEC-SP)
+* Bachelor in Public Administration <br/>(UFOP-MG)
+  
+</details>
+  
+<details>
+  <summary>
+  <h3> 🖥️ Works </h3>
+  </summary>
 
-|  🏫 Education     | 🖥️ Works           | 📚 Learnings, Hobbies and More |
-| ----------------- | ------------------| -------------------------------|
-| Postgraduate, Lato-Sensu, in Artificial Intelligence (PUC-SP) | Android Mobile Engineering and Development (Full - ⭐⭐) (Itaú; Robert Half + PagBank PagSeguro; and BRQ + Itaú) |  I'm learning about Google Analytics and AWS, architetures, modules, and Flutter;
-| Technologist in Systems Analysis and Development (FATEC-SP) | Android Mobile Engineering and Development (Junior - ⭐) (TCS + Itaú) | I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
-| Bachelor in Public Administration (UFOP-MG) | Mobile Development Assistant - Android (TCS + Itaú) | I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music.
-| | Mobile Development Trainee - Android (TCS + Itaú) |
-| | Internship in Systems Analysis and Development (ETEC Antonio Furlan) |
-| | Two internships in Public Administration (CETESB and RR Business)  | |
+* Android Mobile Engineering and Development (Full - ⭐⭐) <br/>(Itaú; Robert Half + PagBank PagSeguro; and BRQ + Itaú) 
+* Android Mobile Engineering and Development (Junior - ⭐) <br/>(TCS + Itaú)
+* Mobile Development Assistant - Android <br/>(TCS + Itaú)
+* Mobile Development Trainee - Android <br/>(TCS + Itaú)
+* Internship in Systems Analysis and Development <br/>(ETEC Antonio Furlan)
+* Two internships in Public Administration <br/>(CETESB and RR Business)
+  
+</details>
+  
+<details>
+  <summary>
+  <h3> 📚 Learnings and Hobbies </h3>
+  </summary>
+  
+* I'm learning about Google Analytics and AWS, architetures, modules, Flutter and more;
+* I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
+* I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music.
 
 </details>
+  </details>
 
 ------------
+<details>
+  <summary>
+   <h2>🖥️ Technologies and Skills</h2>
+  </summary>
 
 <details>
   <summary>
-    <h2>🖥️ Technologies and Skills</h2>
+    <h3> 📚 Control Versions </h3>
   </summary>
+  
+  [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#)
+  [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
+  [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
+  
+</details>
 
-| Control Versions |  Frontend | Backend | Skills |
-|------------------| --------- | ------- | ------ |
-| [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#) | [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=) | [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=js&sort=) | [![Planning](https://img.shields.io/badge/planning-red?style=for-the-badge&logo=Trello&logoColor=white)](#)
-| [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#) | [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=) | [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) | [![Kanban](https://img.shields.io/badge/kanban-violet?style=for-the-badge&logo=Jira&logoColor=white)](#)
-| [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#) |  [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=Android&logoColor=white)](#) | [![Wordpress](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)](#) | [![Architetures](https://img.shields.io/badge/architetures-grey?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
-| | [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=) | | [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-blueviolet?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
-| | [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=)  | |
-| | [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=) | |
+<details>
+  <summary>
+    <h3> 📚 Frontend </h3>
+  </summary>
+  
+  [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
+  [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
+  [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=Android&logoColor=white)](#)
+  [![Wordpress](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)](#)
+  [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
+  [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=) 
+  [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=)
 
-</br>
+</details>
+
+<details>
+  <summary>
+    <h3> 📚 Backend </h3>
+  </summary>
+  
+  [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=js&sort=)
+  [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
+  
+</details>
+    
+<details>
+  <summary>
+    <h3> 📚 Skills </h3>
+  </summary>
+  
+  [![Planning](https://img.shields.io/badge/planning-red?style=for-the-badge&logo=Trello&logoColor=white)](#)
+  [![Kanban](https://img.shields.io/badge/kanban-violet?style=for-the-badge&logo=Jira&logoColor=white)](#)
+  [![Architetures](https://img.shields.io/badge/architetures-grey?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
+  [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-blueviolet?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
+
+</details>
 
 ### Recently, she worked on
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
