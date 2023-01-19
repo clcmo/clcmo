@@ -1,4 +1,4 @@
-name: Latest Feed From Milla
+name: Latest Videos From Milla
 on: 
   schedule:
     # Runs every hour
@@ -14,8 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path : ./docs/README.md
-          comment_tag_name: "BLOG"
-          feed_list: "https://feeds.feedburner.com/feedcamila"
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC44Q6GTmqbYityTQiq5mwjg"
           max_post_count: "4"
           remove_duplicates: true
-         
