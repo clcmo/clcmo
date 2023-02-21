@@ -1,12 +1,7 @@
-<table>
-  <tr>
-    <td width="50%">
-      <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello, I'm Camila L. Oliveira 👩🏻‍🦰</h1>
-    <td>
-        <a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/blob/main/docs/images/banner.svg" alt="Banner"/></a>
-    </td>
-  </tr>
-  </table>
+
+  
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hello, I'm Camila L. Oliveira 
+  <a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/blob/main/memoji_mi.png"  width="5%" alt="Memoji"/></a></h1>
 
 ------------
 
