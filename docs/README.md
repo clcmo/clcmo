@@ -121,10 +121,10 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [E o Mundo Caiu?](https://prensa.li/@clcmo/e-o-mundo-caiu)
 - [Eternos Aprendizes: a pluralidade de ideias como a base do Lifelong Learning](https://prensa.li/@clcmo/eternos-aprendizes-a-pluralidade-de-ideias-como-a-base-do-lifelong-learning)
 - [O Brasil de 2023 e a busca do equilíbrio](https://prensa.li/@clcmo/o-brasil-de-2023-e-a-busca-do-equilibrio)
 - [Novos horizontes e os desafios tecnológicos](https://prensa.li/@clcmo/novos-horizontes-e-os-desafios-tecnologicos)
-- [O Rei Faleceu, Vida Longa ao Rei](https://prensa.li/@clcmo/o-rei-faleceu-vida-longa-ao-rei)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
