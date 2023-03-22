@@ -140,9 +140,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)<br>
-2. ⭐ Starred [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)<br>
-3. ❗️ Opened issue [#189](https://github.com/gautamkrishnar/blog-post-workflow/issues/189) in [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)<br>
+1. ⬆️ Pushed 2 commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+2. 🎉 Merged PR [#6](https://github.com/clcmo/Mi_Music/pull/6) in [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+3. ⬆️ Pushed 2 commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+4. 🎉 Merged PR [#4](https://github.com/clcmo/Mi_Music/pull/4) in [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+5. 🎉 Merged PR [#2](https://github.com/clcmo/Mi_Music/pull/2) in [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
