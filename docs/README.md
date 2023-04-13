@@ -143,8 +143,8 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 1. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
 2. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
 3. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
-4. 📔 Created new repository [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
-5. ⬆️ Pushed 2 commit(s) to [clcmo/camilaloliveiracom](https://github.com/clcmo/camilaloliveiracom)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
+5. 📔 Created new repository [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
