@@ -141,10 +141,10 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
-2. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
-3. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
-4. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
-5. 📔 Created new repository [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
+2. ⬆️ Pushed 2 commit(s) to [clcmo/doe](https://github.com/clcmo/doe)<br>
+3. 🎉 Merged PR [#10](https://github.com/clcmo/doe/pull/10) in [clcmo/doe](https://github.com/clcmo/doe)<br>
+4. ⬆️ Pushed 2 commit(s) to [clcmo/doe](https://github.com/clcmo/doe)<br>
+5. 🎉 Merged PR [#6](https://github.com/clcmo/doe/pull/6) in [clcmo/doe](https://github.com/clcmo/doe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
