@@ -121,10 +121,10 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
 - [Precisamos conversar sobre a violência](https://prensa.li/@clcmo/precisamos-conversar-sobre-a-violencia)
 - [E o Mundo Caiu?](https://prensa.li/@clcmo/e-o-mundo-caiu)
 - [Eternos Aprendizes: a pluralidade de ideias como a base do Lifelong Learning](https://prensa.li/@clcmo/eternos-aprendizes-a-pluralidade-de-ideias-como-a-base-do-lifelong-learning)
-- [O Brasil de 2023 e a busca do equilíbrio](https://prensa.li/@clcmo/o-brasil-de-2023-e-a-busca-do-equilibrio)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
