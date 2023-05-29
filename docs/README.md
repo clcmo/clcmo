@@ -140,11 +140,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [imartinez/privateGPT](https://github.com/imartinez/privateGPT)<br>
-2. ⭐ Starred [syednomishah/Food-Delivery-App-React-Native](https://github.com/syednomishah/Food-Delivery-App-React-Native)<br>
-3. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
-4. ⬆️ Pushed 2 commit(s) to [clcmo/doe](https://github.com/clcmo/doe)<br>
-5. 🎉 Merged PR [#10](https://github.com/clcmo/doe/pull/10) in [clcmo/doe](https://github.com/clcmo/doe)<br>
+1. ⬆️ Pushed 1 commit(s) to [studiourbanna/here](https://github.com/studiourbanna/here)<br>
+2. ⭐ Starred [imartinez/privateGPT](https://github.com/imartinez/privateGPT)<br>
+3. ⭐ Starred [syednomishah/Food-Delivery-App-React-Native](https://github.com/syednomishah/Food-Delivery-App-React-Native)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/mario_game](https://github.com/clcmo/mario_game)<br>
+5. ⬆️ Pushed 2 commit(s) to [clcmo/doe](https://github.com/clcmo/doe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
