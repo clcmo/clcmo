@@ -140,11 +140,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [studiourbanna/here](https://github.com/studiourbanna/here)<br>
-2. 🎉 Merged PR [#2](https://github.com/studiourbanna/here/pull/2) in [studiourbanna/here](https://github.com/studiourbanna/here)<br>
-3. 💪 Opened PR [#2](https://github.com/studiourbanna/here/pull/2) in [studiourbanna/here](https://github.com/studiourbanna/here)<br>
-4. ⬆️ Pushed 2 commit(s) to [studiourbanna/here](https://github.com/studiourbanna/here)<br>
-5. 🎉 Merged PR [#1](https://github.com/studiourbanna/here/pull/1) in [studiourbanna/here](https://github.com/studiourbanna/here)<br>
+1. ⬆️ Pushed 1 commit(s) to [studiourbanna/here](https://github.com/studiourbanna/here)<br>
+2. ⬆️ Pushed 1 commit(s) to [studiourbanna/here](https://github.com/studiourbanna/here)<br>
+3. ⬆️ Pushed 2 commit(s) to [studiourbanna/here](https://github.com/studiourbanna/here)<br>
+4. 🎉 Merged PR [#2](https://github.com/studiourbanna/here/pull/2) in [studiourbanna/here](https://github.com/studiourbanna/here)<br>
+5. 💪 Opened PR [#2](https://github.com/studiourbanna/here/pull/2) in [studiourbanna/here](https://github.com/studiourbanna/here)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
