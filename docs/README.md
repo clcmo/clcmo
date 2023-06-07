@@ -141,8 +141,8 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-2. ⬆️ Pushed 2 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-3. ⬆️ Pushed 1 commit(s) to [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+3. ⬆️ Pushed 2 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
 4. ⬆️ Pushed 1 commit(s) to [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
