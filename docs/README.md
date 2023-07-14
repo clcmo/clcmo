@@ -121,10 +121,10 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [“Conversando” com uma IA: perguntei ao Bard, do Google, sobre o trabalho do futuro](https://camilaloliveira.com.br/blog/milla/conversando-com-uma-ia-perguntei-ao-bard-do-google-sobre-o-trabalho-do-futuro/)
 - [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
 - [Precisamos conversar sobre a violência](https://prensa.li/@clcmo/precisamos-conversar-sobre-a-violencia)
 - [E o Mundo Caiu?](https://prensa.li/@clcmo/e-o-mundo-caiu)
-- [Eternos Aprendizes: a pluralidade de ideias como a base do Lifelong Learning](https://prensa.li/@clcmo/eternos-aprendizes-a-pluralidade-de-ideias-como-a-base-do-lifelong-learning)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
