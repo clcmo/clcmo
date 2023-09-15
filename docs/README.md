@@ -140,7 +140,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [geekcom/validator-docs](https://github.com/geekcom/validator-docs)<br>
+1. ✌️ Released [v2023.09.14](https://github.com/studiourbanna/encurtai/releases/tag/2023.09.14) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+2. ⬆️ Pushed 3 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+3. 🎉 Merged PR [#15](https://github.com/studiourbanna/encurtai/pull/15) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+4. ⬆️ Pushed 14 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+5. 👍 Approved [#15](https://github.com/studiourbanna/encurtai/pull/15#pullrequestreview-1628112967) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
