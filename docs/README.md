@@ -121,10 +121,10 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [Ah, as “brincadeiras”](https://camilaloliveira.com.br/blog/milla/ah-as-brincadeiras/)
 - [Recebeu SMS de compra que nem fez? É golpe!](https://camilaloliveira.com.br/blog/milla/recebeu-sms-de-compra-que-nem-fez-e-golpe/)
 - [“Conversando” com uma IA: perguntei ao Bard, do Google, sobre o trabalho do futuro](https://camilaloliveira.com.br/blog/milla/conversando-com-uma-ia-perguntei-ao-bard-do-google-sobre-o-trabalho-do-futuro/)
 - [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
-- [Precisamos conversar sobre a violência](https://prensa.li/@clcmo/precisamos-conversar-sobre-a-violencia)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
