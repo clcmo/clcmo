@@ -148,3 +148,5 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 <!--RECENT_ACTIVITY:end-->
 
 </details>
+
+<a rel="me" href="https://mastodon.social/@millaloliveira">Mastodon</a>
