@@ -140,11 +140,11 @@ I also have knowledge in two more languages: English and French, and I aim, in a
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v2023.09.18](https://github.com/studiourbanna/encurtai/releases/tag/2023.09.18) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-2. ⬆️ Pushed 3 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-3. 🎉 Merged PR [#21](https://github.com/studiourbanna/encurtai/pull/21) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-4. ⬆️ Pushed 19 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
-5. 👍 Approved [#21](https://github.com/studiourbanna/encurtai/pull/21#pullrequestreview-1632139537) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+1. ⭐ Starred [menthorlabs/menthor](https://github.com/menthorlabs/menthor)<br>
+2. ✌️ Released [v2023.09.18](https://github.com/studiourbanna/encurtai/releases/tag/2023.09.18) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+3. ⬆️ Pushed 3 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+4. 🎉 Merged PR [#21](https://github.com/studiourbanna/encurtai/pull/21) in [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
+5. ⬆️ Pushed 19 commit(s) to [studiourbanna/encurtai](https://github.com/studiourbanna/encurtai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
