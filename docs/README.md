@@ -10,11 +10,13 @@
     <h2>👩‍🦰 About Me</h2>
   </summary>
   
-I have a degree in Public Administration, I worked in the area, but if there's one thing I've discovered, it's that I have the vocation to develop software - and dreams too - in addition to communicating.
+I've been working in development since 2019, developing features for Itaú and PagBank. As a team, I've developed solutions for e-commerce, financial education, payments, communications and analytics. I was awarded second place at HackaPag, in June 2022, with a project focused on financial education.
 
-Today I work in application development, an experience that started in earnest in 2019, and I also enjoy learning and teaching. In addition to writing on websites and blogs (and there are three, well segmented: a personal one, a musical one and a tech one), I have just over 1000 followers in the three largest social networks.
+I have a postgraduate degree in Artificial Intelligence from TIDD at PUC-SP, with the article "Consumerism, Morality and Excesses of the Digitalised Society". Since 2021, I've been doing research into the future of society with the internet of things and the advent of artificial intelligence - which I intend to do for a master's degree.
 
-I also have knowledge in two more languages: English and French, and I aim, in addition to continuing to improve myself, to be able to teach people who are curious and willing to get to know this so rich area that is technology.
+I graduated from FATEC-SP with a degree in Systems Analysis and Development, and from UFOP with a degree in Public Administration.
+
+I also have knowledge in two languages: English and French, and I aim, in addition to continuing to improve myself, to be able to teach people who are curious and willing to get to know this so rich area that is technology.
   
 <details>
   <summary>
