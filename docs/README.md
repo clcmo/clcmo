@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11](https://github.com/clcmo/interfaces_web1/pull/11) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
-2. ⬆️ Pushed 3 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
-3. 🎉 Merged PR [#10](https://github.com/clcmo/interfaces_web1/pull/10) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
-4. 💪 Opened PR [#10](https://github.com/clcmo/interfaces_web1/pull/10) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
-5. ⬆️ Pushed 3 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+1. ⬆️ Pushed 5 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+2. 🎉 Merged PR [#14](https://github.com/clcmo/interfaces_web1/pull/14) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+3. 💪 Opened PR [#14](https://github.com/clcmo/interfaces_web1/pull/14) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+4. ⬆️ Pushed 5 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+5. 🎉 Merged PR [#13](https://github.com/clcmo/interfaces_web1/pull/13) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
