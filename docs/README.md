@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GabrielRF/QuestoesDeConcursoBot](https://github.com/GabrielRF/QuestoesDeConcursoBot)<br>
-2. ⬆️ Pushed 5 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
-3. 🎉 Merged PR [#14](https://github.com/clcmo/interfaces_web1/pull/14) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
-4. 💪 Opened PR [#14](https://github.com/clcmo/interfaces_web1/pull/14) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
-5. ⬆️ Pushed 5 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+1. ⭐ Starred [redelivre/coletivo](https://github.com/redelivre/coletivo)<br>
+2. ⭐ Starred [GabrielRF/QuestoesDeConcursoBot](https://github.com/GabrielRF/QuestoesDeConcursoBot)<br>
+3. ⬆️ Pushed 5 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+4. 🎉 Merged PR [#14](https://github.com/clcmo/interfaces_web1/pull/14) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+5. 💪 Opened PR [#14](https://github.com/clcmo/interfaces_web1/pull/14) in [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
