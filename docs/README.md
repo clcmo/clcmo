@@ -143,10 +143,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
-2. 📔 Created new repository [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
-3. ⭐ Starred [redelivre/coletivo](https://github.com/redelivre/coletivo)<br>
-4. ⭐ Starred [GabrielRF/QuestoesDeConcursoBot](https://github.com/GabrielRF/QuestoesDeConcursoBot)<br>
-5. ⬆️ Pushed 5 commit(s) to [clcmo/interfaces_web1](https://github.com/clcmo/interfaces_web1)<br>
+2. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
+3. 📔 Created new repository [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
+4. ⭐ Starred [redelivre/coletivo](https://github.com/redelivre/coletivo)<br>
+5. ⭐ Starred [GabrielRF/QuestoesDeConcursoBot](https://github.com/GabrielRF/QuestoesDeConcursoBot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
