@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
-2. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
+1. 📔 Created new repository [clcmo/aulas_cnw_inf](https://github.com/clcmo/aulas_cnw_inf)<br>
+2. 📔 Created new repository [clcmo/aulas_ai_rh](https://github.com/clcmo/aulas_ai_rh)<br>
 3. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
-4. 📔 Created new repository [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
-5. ⭐ Starred [redelivre/coletivo](https://github.com/redelivre/coletivo)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
+5. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
