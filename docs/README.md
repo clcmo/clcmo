@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [clcmo/aulas_2aa_cnw_inf](https://github.com/clcmo/aulas_2aa_cnw_inf)<br>
-2. 📔 Created new repository [clcmo/aulas_iw_inf](https://github.com/clcmo/aulas_iw_inf)<br>
-3. 📔 Created new repository [clcmo/aulas_cnw_inf](https://github.com/clcmo/aulas_cnw_inf)<br>
-4. 📔 Created new repository [clcmo/aulas_ai_rh](https://github.com/clcmo/aulas_ai_rh)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/mandys_angular](https://github.com/clcmo/mandys_angular)<br>
+1. 📔 Created new repository [clcmo/aulas_2ba_cnw_inf](https://github.com/clcmo/aulas_2ba_cnw_inf)<br>
+2. 📔 Created new repository [clcmo/aulas_2aa_cnw_inf](https://github.com/clcmo/aulas_2aa_cnw_inf)<br>
+3. 📔 Created new repository [clcmo/aulas_iw_inf](https://github.com/clcmo/aulas_iw_inf)<br>
+4. 📔 Created new repository [clcmo/aulas_cnw_inf](https://github.com/clcmo/aulas_cnw_inf)<br>
+5. 📔 Created new repository [clcmo/aulas_ai_rh](https://github.com/clcmo/aulas_ai_rh)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
