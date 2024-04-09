@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [clcmo/aulas_correcao_tlbd_erme](https://github.com/clcmo/aulas_correcao_tlbd_erme)<br>
-2. ⭐ Starred [Gcenx/winecx](https://github.com/Gcenx/winecx)<br>
-3. 📔 Created new repository [clcmo/aulas_2ba_cnw_inf](https://github.com/clcmo/aulas_2ba_cnw_inf)<br>
-4. 📔 Created new repository [clcmo/aulas_2aa_cnw_inf](https://github.com/clcmo/aulas_2aa_cnw_inf)<br>
-5. 📔 Created new repository [clcmo/aulas_iw_inf](https://github.com/clcmo/aulas_iw_inf)<br>
+1. ⬆️ Pushed 1 commit(s) to [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
+2. 📔 Created new repository [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
+3. 📔 Created new repository [clcmo/aulas_correcao_tlbd_erme](https://github.com/clcmo/aulas_correcao_tlbd_erme)<br>
+4. ⭐ Starred [Gcenx/winecx](https://github.com/Gcenx/winecx)<br>
+5. 📔 Created new repository [clcmo/aulas_2ba_cnw_inf](https://github.com/clcmo/aulas_2ba_cnw_inf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
