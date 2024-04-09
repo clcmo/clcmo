@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
-2. ⬆️ Pushed 1 commit(s) to [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
-3. 📔 Created new repository [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
-4. 📔 Created new repository [clcmo/aulas_correcao_tlbd_erme](https://github.com/clcmo/aulas_correcao_tlbd_erme)<br>
-5. ⭐ Starred [Gcenx/winecx](https://github.com/Gcenx/winecx)<br>
+1. ⬆️ Pushed 2 commit(s) to [clcmo/atividade-git-v2](https://github.com/clcmo/atividade-git-v2)<br>
+2. 📔 Created new repository [clcmo/atividade-git-v2](https://github.com/clcmo/atividade-git-v2)<br>
+3. ⬆️ Pushed 1 commit(s) to [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
+5. 📔 Created new repository [clcmo/atividade-git](https://github.com/clcmo/atividade-git)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
