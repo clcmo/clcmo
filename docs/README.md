@@ -146,7 +146,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 2. ⬆️ Pushed 1 commit(s) to [clcmo/Navegacao](https://github.com/clcmo/Navegacao)<br>
 3. ⬆️ Pushed 1 commit(s) to [clcmo/Navegacao](https://github.com/clcmo/Navegacao)<br>
 4. ⬆️ Pushed 1 commit(s) to [clcmo/Navegacao](https://github.com/clcmo/Navegacao)<br>
-5. 📔 Created new repository [clcmo/Navegacao](https://github.com/clcmo/Navegacao)<br>
+5. ⬆️ Pushed 1 commit(s) to [clcmo/Navegacao](https://github.com/clcmo/Navegacao)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
