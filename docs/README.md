@@ -145,8 +145,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 1. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
 2. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
 3. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
-4. 📔 Created new repository [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
-5. ⭐ Starred [Gui55/WingsJourneyWebsite](https://github.com/Gui55/WingsJourneyWebsite)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
+5. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
