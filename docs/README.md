@@ -145,8 +145,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 1. ⬆️ Pushed 1 commit(s) to [urbanna/gerador_urbannaticos](https://github.com/urbanna/gerador_urbannaticos)<br>
 2. ⬆️ Pushed 1 commit(s) to [urbanna/gerador_urbannaticos](https://github.com/urbanna/gerador_urbannaticos)<br>
 3. ⬆️ Pushed 1 commit(s) to [urbanna/gerador_urbannaticos](https://github.com/urbanna/gerador_urbannaticos)<br>
-4. ⬆️ Pushed 1 commit(s) to [clcmo/busca_cep](https://github.com/clcmo/busca_cep)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/busca_cep](https://github.com/clcmo/busca_cep)<br>
+4. ⬆️ Pushed 1 commit(s) to [urbanna/gerador_urbannaticos](https://github.com/urbanna/gerador_urbannaticos)<br>
+5. ⬆️ Pushed 1 commit(s) to [urbanna/gerador_urbannaticos](https://github.com/urbanna/gerador_urbannaticos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
