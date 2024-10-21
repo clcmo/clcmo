@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/clcmo/portfolio/pull/1) in [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
-2. ❌ Closed PR [#659](https://github.com/arifszn/gitprofile/pull/659) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
-3. 💪 Opened PR [#659](https://github.com/arifszn/gitprofile/pull/659) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
-4. ⬆️ Pushed 1 commit(s) to [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
+1. ⬆️ Pushed 2 commit(s) to [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
+2. 🎉 Merged PR [#1](https://github.com/clcmo/portfolio/pull/1) in [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
+3. 💪 Opened PR [#1](https://github.com/clcmo/portfolio/pull/1) in [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
+4. ❌ Closed PR [#659](https://github.com/arifszn/gitprofile/pull/659) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
+5. 💪 Opened PR [#659](https://github.com/arifszn/gitprofile/pull/659) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
