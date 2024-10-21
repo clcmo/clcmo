@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [clcmo/gitprofile](https://github.com/clcmo/gitprofile)<br>
-2. 🔱 Forked [clcmo/gitprofile](undefined) from [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
-3. ⭐ Starred [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
-4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
+1. 💪 Opened PR [#1](https://github.com/clcmo/portfolio/pull/1) in [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
+2. ❌ Closed PR [#659](https://github.com/arifszn/gitprofile/pull/659) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
+3. 💪 Opened PR [#659](https://github.com/arifszn/gitprofile/pull/659) in [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
+5. ⬆️ Pushed 1 commit(s) to [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
