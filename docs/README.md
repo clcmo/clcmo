@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
-2. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
-3. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
+1. ⬆️ Pushed 1 commit(s) to [clcmo/gitprofile](https://github.com/clcmo/gitprofile)<br>
+2. 🔱 Forked [clcmo/gitprofile](undefined) from [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
+3. ⭐ Starred [arifszn/gitprofile](https://github.com/arifszn/gitprofile)<br>
 4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/tlbd_dm_ermelinda](https://github.com/clcmo/tlbd_dm_ermelinda)<br>
+5. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_tlbd_ermelinda](https://github.com/clcmo/aulas_tlbd_ermelinda)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
