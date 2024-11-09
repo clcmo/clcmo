@@ -144,9 +144,9 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [clcmo/rotinapp](https://github.com/clcmo/rotinapp)<br>
 2. ⬆️ Pushed 1 commit(s) to [clcmo/rotinapp](https://github.com/clcmo/rotinapp)<br>
-3. 📔 Created new repository [clcmo/rotinapp](https://github.com/clcmo/rotinapp)<br>
-4. ⬆️ Pushed 2 commit(s) to [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
-5. 🎉 Merged PR [#1](https://github.com/clcmo/portfolio/pull/1) in [clcmo/portfolio](https://github.com/clcmo/portfolio)<br>
+3. ⬆️ Pushed 1 commit(s) to [clcmo/rotinapp](https://github.com/clcmo/rotinapp)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/rotinapp](https://github.com/clcmo/rotinapp)<br>
+5. ⬆️ Pushed 1 commit(s) to [clcmo/rotinapp](https://github.com/clcmo/rotinapp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
