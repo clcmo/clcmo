@@ -142,11 +142,6 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ballerini-Server/BrandGuide](https://github.com/Ballerini-Server/BrandGuide)<br>
-2. ⭐ Starred [Ballerini-Theme/visual-studio-code](https://github.com/Ballerini-Theme/visual-studio-code)<br>
-3. ⭐ Starred [Ballerini-Server/Balle-Music](https://github.com/Ballerini-Server/Balle-Music)<br>
-4. ⭐ Starred [rafaballerini/AssistentePessoal](https://github.com/rafaballerini/AssistentePessoal)<br>
-5. ⭐ Starred [rafaballerini/DiscordBot](https://github.com/rafaballerini/DiscordBot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
