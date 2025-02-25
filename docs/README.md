@@ -142,7 +142,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [clcmo/LP2_Aulas_ProfMilla](https://github.com/clcmo/LP2_Aulas_ProfMilla)<br>
+1. 📔 Created new repository [clcmo/aulas_sw1_barto](https://github.com/clcmo/aulas_sw1_barto)<br>
+2. 📔 Created new repository [clcmo/LP2_Aulas_ProfMilla](https://github.com/clcmo/LP2_Aulas_ProfMilla)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
