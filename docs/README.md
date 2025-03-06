@@ -142,8 +142,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_1aa_iw1_guaranajesus](https://github.com/clcmo/aulas_1aa_iw1_guaranajesus)<br>
-2. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_1aa_iw1_guaranajesus](https://github.com/clcmo/aulas_1aa_iw1_guaranajesus)<br>
+1. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_2aa_sw](https://github.com/clcmo/aulas_2aa_sw)<br>
+2. 📔 Created new repository [clcmo/aulas_2aa_sw](https://github.com/clcmo/aulas_2aa_sw)<br>
 3. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_1aa_iw1_guaranajesus](https://github.com/clcmo/aulas_1aa_iw1_guaranajesus)<br>
 4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_1aa_iw1_guaranajesus](https://github.com/clcmo/aulas_1aa_iw1_guaranajesus)<br>
 5. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_1aa_iw1_guaranajesus](https://github.com/clcmo/aulas_1aa_iw1_guaranajesus)<br>
