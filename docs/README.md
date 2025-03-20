@@ -144,9 +144,9 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
 2. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
-3. ⬆️ Pushed 2 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
-4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_2aa_sw](https://github.com/clcmo/aulas_2aa_sw)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_sw1_barto](https://github.com/clcmo/aulas_sw1_barto)<br>
+3. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
+4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
+5. ⬆️ Pushed 2 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
