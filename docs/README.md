@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/clcmo/aulas_SWI_2Info/pull/2) in [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
-2. ⬆️ Pushed 1 commit(s) to [Apprendendo/aulas_SWI_2Info](https://github.com/Apprendendo/aulas_SWI_2Info)<br>
-3. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
-4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
-5. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
+1. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_SWI_2Info](https://github.com/clcmo/aulas_SWI_2Info)<br>
+2. ⬆️ Pushed 1 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [Apprendendo/aulas_SWI_2Info](https://github.com/Apprendendo/aulas_SWI_2Info)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
