@@ -142,7 +142,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
+1. ⬆️ Pushed 3 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [Apprendendo/apprendendo.github.io](https://github.com/Apprendendo/apprendendo.github.io)<br>
