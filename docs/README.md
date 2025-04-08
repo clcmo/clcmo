@@ -142,10 +142,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_sw1_barto](https://github.com/clcmo/aulas_sw1_barto)<br>
-3. ⬆️ Pushed 1 commit(s) to [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_1aa_iw1_guaranajesus](https://github.com/clcmo/aulas_1aa_iw1_guaranajesus)<br>
+1. 📔 Created new repository [clcmo/sebo_crud](https://github.com/clcmo/sebo_crud)<br>
+2. 📔 Created new repository [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_sw1_barto](https://github.com/clcmo/aulas_sw1_barto)<br>
+4. ⬆️ Pushed 1 commit(s) to [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
 5. ⬆️ Pushed 1 commit(s) to [clcmo/aulas_1aa_iw1_guaranajesus](https://github.com/clcmo/aulas_1aa_iw1_guaranajesus)<br>
 <!--RECENT_ACTIVITY:end-->
 
