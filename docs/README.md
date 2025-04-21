@@ -142,7 +142,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+1. ✌️ Released [2025.21.04 - Primeira Versão](https://github.com/Apprendendo/sebo/releases/tag/2025.21.04) in [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 2. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 3. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 4. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
