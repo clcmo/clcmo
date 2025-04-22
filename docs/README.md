@@ -142,10 +142,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PHPMT/auto_loading](https://github.com/PHPMT/auto_loading)<br>
-2. ⭐ Starred [rochacbruno/marmite](https://github.com/rochacbruno/marmite)<br>
-3. ✌️ Released [2025.21.04 - Primeira Versão](https://github.com/Apprendendo/sebo/releases/tag/2025.21.04) in [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
-4. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+1. 📔 Created new repository [Apprendendo/.github](https://github.com/Apprendendo/.github)<br>
+2. ⭐ Starred [PHPMT/auto_loading](https://github.com/PHPMT/auto_loading)<br>
+3. ⭐ Starred [rochacbruno/marmite](https://github.com/rochacbruno/marmite)<br>
+4. ✌️ Released [2025.21.04 - Primeira Versão](https://github.com/Apprendendo/sebo/releases/tag/2025.21.04) in [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 5. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 <!--RECENT_ACTIVITY:end-->
 
