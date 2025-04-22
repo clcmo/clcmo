@@ -143,10 +143,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
-2. 📔 Created new repository [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
-3. 📔 Created new repository [Apprendendo/.github](https://github.com/Apprendendo/.github)<br>
-4. ⭐ Starred [PHPMT/auto_loading](https://github.com/PHPMT/auto_loading)<br>
-5. ⭐ Starred [rochacbruno/marmite](https://github.com/rochacbruno/marmite)<br>
+2. ⬆️ Pushed 1 commit(s) to [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
+3. 📔 Created new repository [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
+4. 📔 Created new repository [Apprendendo/.github](https://github.com/Apprendendo/.github)<br>
+5. ⭐ Starred [PHPMT/auto_loading](https://github.com/PHPMT/auto_loading)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
