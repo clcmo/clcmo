@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
-2. ⬆️ Pushed 1 commit(s) to [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
-3. 📔 Created new repository [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
-4. 📔 Created new repository [Apprendendo/.github](https://github.com/Apprendendo/.github)<br>
-5. ⭐ Starred [PHPMT/auto_loading](https://github.com/PHPMT/auto_loading)<br>
+1. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+2. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+3. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+4. ⬆️ Pushed 1 commit(s) to [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
+5. ⬆️ Pushed 1 commit(s) to [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
