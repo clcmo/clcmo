@@ -146,7 +146,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 2. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 3. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 4. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
-5. ⬆️ Pushed 1 commit(s) to [AMSApprendendo/MeuPrimeiroProjeto](https://github.com/AMSApprendendo/MeuPrimeiroProjeto)<br>
+5. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
