@@ -142,11 +142,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
-2. ⭐ Starred [matheuss-dsr/TCC](https://github.com/matheuss-dsr/TCC)<br>
-3. ⭐ Starred [RyanJarv/awesome-cloud-sec](https://github.com/RyanJarv/awesome-cloud-sec)<br>
+1. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+2. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+3. ⬆️ Pushed 2 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
 4. ⬆️ Pushed 1 commit(s) to [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
+5. ⭐ Starred [matheuss-dsr/TCC](https://github.com/matheuss-dsr/TCC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
