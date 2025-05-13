@@ -143,10 +143,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
-2. ⭐ Starred [030938/MeuPrimeiroProjeto1](https://github.com/030938/MeuPrimeiroProjeto1)<br>
-3. ⬆️ Pushed 1 commit(s) to [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
-4. ⬆️ Pushed 2 commit(s) to [SweetPacoca/sweetpacoca.github.io](https://github.com/SweetPacoca/sweetpacoca.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [MrIaaS/mriaas.github.io](https://github.com/MrIaaS/mriaas.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+3. ⭐ Starred [030938/MeuPrimeiroProjeto1](https://github.com/030938/MeuPrimeiroProjeto1)<br>
+4. ⬆️ Pushed 1 commit(s) to [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
+5. ⬆️ Pushed 2 commit(s) to [SweetPacoca/sweetpacoca.github.io](https://github.com/SweetPacoca/sweetpacoca.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
