@@ -143,10 +143,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [GelatosAvelas/gelatosavelas.github.io](https://github.com/GelatosAvelas/gelatosavelas.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+2. ⬆️ Pushed 1 commit(s) to [GelatosAvelas/gelatosavelas.github.io](https://github.com/GelatosAvelas/gelatosavelas.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
-4. ⭐ Starred [030938/MeuPrimeiroProjeto1](https://github.com/030938/MeuPrimeiroProjeto1)<br>
-5. ⬆️ Pushed 1 commit(s) to [Audocao/audocao.github.io](https://github.com/Audocao/audocao.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [Apprendendo/sebo](https://github.com/Apprendendo/sebo)<br>
+5. ⭐ Starred [030938/MeuPrimeiroProjeto1](https://github.com/030938/MeuPrimeiroProjeto1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
