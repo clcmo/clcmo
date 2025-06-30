@@ -144,9 +144,9 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
+3. ⬆️ Pushed 11 commit(s) to [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
+4. ⬆️ Pushed 2 commit(s) to [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
+5. 🎉 Merged PR [#2](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io/pull/2) in [2InfoApprendendo/2InfoApprendendo.github.io](https://github.com/2InfoApprendendo/2InfoApprendendo.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
