@@ -60,9 +60,14 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 * Corinthiana!
 * I helped prepare the best hot dogs for Barto's Festa das Tradições (June Festival)!
 * Bests MEMEs in the classrooms: 
-  * If you don´t remind about [SEGURANÇAAAAAAAA](https://www.instagram.com/reel/DIHE7yKuDaS/)! BAU BAU! (2025)
-  * Those crazy show-offs! Esses Amostradinhos Insanos!
-  * Professor, my PC broke down! (2024)
+  * If you don´t remind about [SEGURANÇAAAAAAAA](https://www.instagram.com/reel/DIHE7yKuDaS/)... BAU BAU! (3A e 3B, 2025)
+  * Those crazy show-offs! Esses Amostradinhos Insanos! (2 AMS, 3A e 3B, 2025)
+  * Professor, my PC broke down! (3A, 2024)
+  * Write it down with the bright pink pen. (2A, 2AMS, 3A e 3B, 2024)
+  * Puppy barks: woof woof (2A e 2AMS, 2025)
+  * We have some fast rimenders (2AMS, 2025)
+  * Giovana, the oven fell! (3BB, 2025)
+  * Kauã, ops... (3BB e 2AMS, 2025)
     
 
 </details>
@@ -97,6 +102,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
   [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=) 
   [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=)
+  [![TypeScript](https://img.shields.io/badge/typescript-violet?style=for-the-badge&logo=Tyoescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=tyoescript&sort=)
 
 </details>
 
