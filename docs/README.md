@@ -100,9 +100,9 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=Android&logoColor=white)](#)
   [![Wordpress](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)](#)
   [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
-  [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=) 
+  [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=) 
   [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=)
-  [![TypeScript](https://img.shields.io/badge/typescript-violet?style=for-the-badge&logo=Tyoescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=tyoescript&sort=)
+  [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=tyoescript&sort=)
 
 </details>
 
@@ -113,8 +113,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   
   [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=js&sort=)
   [![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=php&sort=)
-  [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
-  [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
+  [![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=Docker&logoColor=blue)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
+  [![MySQL](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
   
 </details>
     
