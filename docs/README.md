@@ -28,6 +28,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 * Postgraduate, Lato-Sensu, in Artificial Intelligence <br/>(PUC-SP)
 * Technologist in Systems Analysis and Development <br/>(FATEC-SP)
 * Bachelor in Public Administration <br/>(UFOP-MG)
+* Studying Bachelor in Math <br/>(UNIVESP - SP)
   
 </details>
   
@@ -36,6 +37,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   <h3> 🖥️ Works </h3>
   </summary>
 
+* Teacher in Information Techonologies (Full - ⭐⭐) <br/>(Centro Paula Souza - ETEC Bartolomeu and ETEC Ermelinda)
 * Android Mobile Engineering and Development (Full - ⭐⭐) <br/>(Itaú; Robert Half + PagBank PagSeguro; and BRQ + Itaú) 
 * Android Mobile Engineering and Development (Junior - ⭐) <br/>(TCS + Itaú)
 * Mobile Development Assistant - Android <br/>(TCS + Itaú)
@@ -52,7 +54,16 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   
 * I'm learning about Google Analytics and AWS, architetures, modules, Flutter and more;
 * I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
+* I shared some lessons about IT, AI, Mobile Developer, Web Developer and Games Developer on [apprendendo](https://apprendendo.blog);
 * I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music.
+* The most funny teacher of ETEC Bartolomeu, according by classrooms.
+* Corinthiana!
+* I helped prepare the best hot dogs for Barto's Festa das Tradições (June Festival)!
+* Bests MEMEs in the classrooms: 
+  * If you don´t remind about [SEGURANÇAAAAAAAA](https://www.instagram.com/reel/DIHE7yKuDaS/)! BAU BAU! (2025)
+  * Those crazy show-offs! Esses Amostradinhos Insanos!
+  * Professor, my PC broke down! (2024)
+    
 
 </details>
   </details>
@@ -95,6 +106,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   </summary>
   
   [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=js&sort=)
+  [![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=php&sort=)
+  [![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
   [![MySQL](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
   
 </details>
