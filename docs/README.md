@@ -67,6 +67,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   <summary>
   <h3> 📚 Bests memes in the classrooms </h3>
   </summary>
+  
 * If you don´t remind about [SEGURANÇAAAAAAAA](https://www.instagram.com/reel/DIHE7yKuDaS/)... BAU BAU! (3A e 3B, 2025)
 * Those crazy show-offs! Esses Amostradinhos Insanos! (2 AMS, 3A e 3B, 2025)
 * Professor, my PC broke down! (3A, 2024)
