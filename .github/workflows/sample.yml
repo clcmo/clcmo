@@ -8,7 +8,7 @@ configurações:
   url_text: “{REPO}{ID}”
   date:
     timezone: “GMT-03:00”
-    text: “Última atualização: {DATE}”
+    text: “Última atualizacao: {DATE}”
     format: “dddd, mmmm dS, yyyy, h:MM:ss TT”
   commit_name: “readme-bot”
   commit_email: “41898282+github-actions[bot]@users.noreply.github.com”
@@ -18,16 +18,16 @@ configurações:
 mensagens:
   comentários: “💬 Comentou em {ID} em {REPO}”
   push: “⬆️ Enviou {AMOUNT} commit(s) para {REPO}”
-  issue_opened: “❗️ Abriu a questão {ID} em {REPO}”
-  issue_closed: “✔️ Fechou a questão {ID} em {REPO}”
+  issue_opened: “❗️ Abriu a questao {ID} em {REPO}”
+  issue_closed: “✔️ Fechou a questao {ID} em {REPO}”
   pr_opened: “💪 PR {ID} aberto em {REPO}”
   pr_closed: “❌ PR {ID} fechado em {REPO}”
   pr_merged: “🎉 PR {ID} mesclado em {REPO}”
-  create_repo: “📔 Novo repositório {REPO} criado”
+  create_repo: “📔 Novo repositorio {REPO} criado”
   fork_repo: “🔱 {FORK} bifurcado de {REPO}”
-  wiki_create: “📖 Nova página wiki {WIKI} criada em {REPO}”
+  wiki_create: “📖 Nova pagina wiki {WIKI} criada em {REPO}”
   added_member: “🤝 Tornei-me colaborador em {REPO}”
   changes_approved: “👍 {ID} aprovado em {REPO}”
-  changes_requested: “🔴 Alterações solicitadas em {ID} em {REPO}”
-  new_release: “✌️ {ID} lançado em {REPO}”
+  changes_requested: “🔴 Alteracoes solicitadas em {ID} em {REPO}”
+  new_release: “✌️ {ID} lancado em {REPO}”
   new_star: “⭐ {REPO} marcado com estrela”
