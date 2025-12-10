@@ -13,7 +13,7 @@ jobs:
     name: ${{ github.actor }} is update her Feed
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path : ./docs/README.md
@@ -26,7 +26,7 @@ jobs:
     name: ${{ github.actor }} is update her YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path : ./docs/README.md
