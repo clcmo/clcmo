@@ -1,4 +1,6 @@
-name: Latest Videos From Milla
+name: Atualização no Feed da ${{ github.actor }}
+run-name: Alguém publicou no site da ${{ github.actor }}
+
 on: 
   schedule:
     # Runs every hour
@@ -6,7 +8,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-youtube:
+
+  update-blog:
     name: ${{ github.actor }} is update her Feed
     runs-on: ubuntu-latest
     steps:
@@ -14,10 +17,24 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           readme_path : ./docs/README.md
+          comment_tag_name: "BLOG"
+          feed_list: "https://feeds.feedburner.com/camilaloliveira/feed"
+          max_post_count: "4"
+          remove_duplicates: true
+  
+  update-youtube: 
+    name: ${{ github.actor }} is update her YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path : ./docs/README.md
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC44Q6GTmqbYityTQiq5mwjg"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCRJXkK-HE9N6sgaGd1JYuKw"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          date_format: "mmm d, yyyy"
+          date_format: "dd, mm, yyyy"
           template: '<table><tr><td width="250px"><a href="$url"><img width="200px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td width="800px"><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           max_post_count: "4"
           remove_duplicates: true
+        

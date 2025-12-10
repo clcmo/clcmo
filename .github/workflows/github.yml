@@ -1,4 +1,5 @@
-name: Update User Readme for GitHub Updates
+name: Update Profile
+run-name: ${{ github.actor }} is updating her profile on GitHub Actions
 
 on:
   schedule:
@@ -6,6 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
+
   build:
     runs-on: ubuntu-latest
     steps:
