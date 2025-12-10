@@ -1,5 +1,5 @@
-configurações:
-  nome de usuário: clcmo
+settings:
+  username: clcmo
   commit_msg: "⚡ Atualizar README com a atividade recente"
   max_lines: 5
   readme_file: "./docs/README.md"
@@ -12,11 +12,11 @@ configurações:
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
-  prefixo_de_linha: "{NUM}. "
-  repositórios_ignorados:
+  line_prefix: "{NUM}. "
+  ignored_repos:
     - clcmo/clcmo
-mensagens:
-  comentários: "💬 Comentou em {ID} em {REPO}"
+messages:
+  comments: "💬 Comentou em {ID} em {REPO}"
   push: "⬆️ Enviou {AMOUNT} commit(s) para {REPO}"
   issue_opened: "❗️ Abriu a questão {ID} em {REPO}"
   issue_closed: "✔️ Fechou a questão {ID} em {REPO}"
