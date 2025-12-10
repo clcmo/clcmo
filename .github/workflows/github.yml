@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: 'sample.yml'
+          CONFIG_FILE: './workflows/sample.yml'
