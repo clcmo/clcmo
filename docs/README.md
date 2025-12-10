@@ -1,6 +1,6 @@
 <h1> Hello, I'm Camila L. Oliveira 
   <a href="https://taggo.one/clcmo">
-    <img src="https://github.com/clcmo/clcmo/blob/main/memoji_mi.png"  width="15%" align="right" alt="Memoji"/>
+    <img src="https://github.com/clcmo/clcmo/blob/main/images/memoji_mi.png"  width="15%" align="right" alt="Memoji"/>
   </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
@@ -59,7 +59,14 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 * The most funny teacher of ETEC Bartolomeu, according by classrooms.
 * Corinthiana!
 * I helped prepare the best hot dogs for Barto's Festa das Tradições (June Festival)!
-* Bests MEMEs in the classrooms: 
+
+</details>
+
+<details>
+
+  <summary>
+  <h3> 📚 Bests memes in the classrooms </h3>
+  </summary>
   * If you don´t remind about [SEGURANÇAAAAAAAA](https://www.instagram.com/reel/DIHE7yKuDaS/)... BAU BAU! (3A e 3B, 2025)
   * Those crazy show-offs! Esses Amostradinhos Insanos! (2 AMS, 3A e 3B, 2025)
   * Professor, my PC broke down! (3A, 2024)
