@@ -175,8 +175,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ [thurzintheetecudo/automeetFORDOCKER](https://github.com/thurzintheetecudo/automeetFORDOCKER) marcado com estrela<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/tcc.camilaloliveira.me](https://github.com/clcmo/tcc.camilaloliveira.me)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/pygame](https://github.com/clcmo/pygame)<br>
+2. ⭐ [thurzintheetecudo/automeetFORDOCKER](https://github.com/thurzintheetecudo/automeetFORDOCKER) marcado com estrela<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/tcc.camilaloliveira.me](https://github.com/clcmo/tcc.camilaloliveira.me)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/tcc.camilaloliveira.me](https://github.com/clcmo/tcc.camilaloliveira.me)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/tcc.camilaloliveira.me](https://github.com/clcmo/tcc.camilaloliveira.me)<br>
