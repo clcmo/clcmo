@@ -163,14 +163,14 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
-<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/shorts/LMZ6nu2wDXk"><img width="200px" src="https://i.ytimg.com/vi/LMZ6nu2wDXk/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/shorts/LMZ6nu2wDXk">Exemplo de App criado em Flutter para Android</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/shorts/mPbHteaCD6o"><img width="200px" src="https://i.ytimg.com/vi/mPbHteaCD6o/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/shorts/mPbHteaCD6o">Exemplo de App criado em Flutter para iOS</a><br/>Jan 19, 2023</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU"><img width="200px" src="https://i.ytimg.com/vi/gGDdalEaHVU/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=gGDdalEaHVU">Conhecendo o jogo Destiny 2</a><br/>Dec 27, 2022</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do"><img width="200px" src="https://i.ytimg.com/vi/_qQlRJ88-Do/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=_qQlRJ88-Do">Jogando GT ao vivo</a><br/>Oct 26, 2022</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0"><img width="200px" src="https://i.ytimg.com/vi/2gwMXGV94t0/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0">MVC na Pratica: Criando interface de usuários | Apprendendo com Camila | SW e CNW</a><br/>24, 11, 2025</td></tr></table>
+<table><tr><td width="250px"><a href="https://www.youtube.com/shorts/B3KUBbOTJ10"><img width="200px" src="https://i.ytimg.com/vi/B3KUBbOTJ10/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/shorts/B3KUBbOTJ10">Meus alunos fizeram a #prova do #Enem e foram prejudicados com o vazamento.</a><br/>19, 11, 2025</td></tr></table>
+<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=QRDsbAHph_w"><img width="200px" src="https://i.ytimg.com/vi/QRDsbAHph_w/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=QRDsbAHph_w">Envelhecer com a Tecnologia | Apprendendo com Camila | Caiu no Enem</a><br/>09, 11, 2025</td></tr></table>
+<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=BIPuwrc74NQ"><img width="200px" src="https://i.ytimg.com/vi/BIPuwrc74NQ/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=BIPuwrc74NQ">Data Cloud e suas características | Apprendendo com Camila | CNW</a><br/>06, 11, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ### On Her GitHub
