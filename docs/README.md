@@ -156,10 +156,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
-- [Ah, as “brincadeiras”](https://camilaloliveira.com.br/blog/milla/ah-as-brincadeiras/)
-- [Recebeu SMS de compra que nem fez? É golpe!](https://camilaloliveira.com.br/blog/milla/recebeu-sms-de-compra-que-nem-fez-e-golpe/)
-- [“Conversando” com uma IA: perguntei ao Bard, do Google, sobre o trabalho do futuro](https://camilaloliveira.com.br/blog/milla/conversando-com-uma-ia-perguntei-ao-bard-do-google-sobre-o-trabalho-do-futuro/)
-- [O desafio do debate: a guerra de informações sobre o PL das Fake News](https://camilaloliveira.com.br/blog/milla/o-desafio-do-debate-a-guerra-de-informacoes-sobre-o-pl-das-fake-news/)
+- [A Montanha Russa](https://camilaloliveira.com/2025/12/27/a-montanha-russa/)
+- [A Travessia, a Pedra e a Arte de Ensinar: Um ciclo em três atos](https://camilaloliveira.com/2025/12/08/a-travessia-a-pedra-e-a-arte-de-ensinar-um-ciclo-em-tres-atos/)
+- [No Jogo de Truco Mundial, Lula foi de Zap – e venceu](https://camilaloliveira.com/2025/07/10/no-jogo-de-truco-mundial-lula-foi-de-zap-e-venceu/)
+- […sinal?](https://camilaloliveira.com/2025/07/10/sinal/)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
