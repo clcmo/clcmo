@@ -1,4 +1,4 @@
-name: Atualização no Feed da ${{ github.actor }}
+name: Atualização no Feed da Camila
 run-name: Alguém publicou no site da ${{ github.actor }}
 
 on: 
