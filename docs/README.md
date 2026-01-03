@@ -175,11 +175,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-4. ✌️ [First Version](https://github.com/clcmo/pygame/releases/tag/0.1.1) lançado em [clcmo/pygame](https://github.com/clcmo/pygame)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/pygame](https://github.com/clcmo/pygame)<br>
+1. ⭐ [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) marcado com estrela<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
+4. 💪 PR [#2](undefined) aberto em [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
