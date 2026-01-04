@@ -175,11 +175,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/4BeeLanding](https://github.com/clcmo/4BeeLanding)<br>
-2. 💪 PR [#1](undefined) aberto em [clcmo/4BeeLanding](https://github.com/clcmo/4BeeLanding)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/4BeeLanding](https://github.com/clcmo/4BeeLanding)<br>
-4. ⭐ [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) marcado com estrela<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
+1. ⬆️ Enviou undefined commit(s) para [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
+2. ⬆️ Enviou undefined commit(s) para [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
+3. ⭐ [studiourbanna/4BeeLanding](https://github.com/studiourbanna/4BeeLanding) marcado com estrela<br>
+4. ⬆️ Enviou undefined commit(s) para [studiourbanna/4BeeLanding](https://github.com/studiourbanna/4BeeLanding)<br>
+5. ⬆️ Enviou undefined commit(s) para [studiourbanna/4BeeLanding](https://github.com/studiourbanna/4BeeLanding)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
