@@ -179,7 +179,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 2. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
 3. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
 4. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
-5. ⬆️ Enviou undefined commit(s) para [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
+5. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
