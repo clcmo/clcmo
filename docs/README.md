@@ -176,10 +176,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
-2. ⬆️ Enviou undefined commit(s) para [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
-3. ⬆️ Enviou undefined commit(s) para [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
-4. ⭐ [studiourbanna/4BeeLanding](https://github.com/studiourbanna/4BeeLanding) marcado com estrela<br>
-5. ⬆️ Enviou undefined commit(s) para [studiourbanna/4BeeLanding](https://github.com/studiourbanna/4BeeLanding)<br>
+2. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
+3. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
+4. ⬆️ Enviou undefined commit(s) para [studiourbanna/MysticPath](https://github.com/studiourbanna/MysticPath)<br>
+5. ⬆️ Enviou undefined commit(s) para [studiourbanna/studiourbanna.github.io](https://github.com/studiourbanna/studiourbanna.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
