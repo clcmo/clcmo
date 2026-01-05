@@ -5,6 +5,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
 
+[![Apprendendo](https://img.shields.io/badge/Apprendendo-blue?style=for-the-badge&logo=rss&logoColor=white)](https://apprendendo.blog)
+[![stdurb](https://img.shields.io/badge/stdurb-black?style=for-the-badge&logo=protodotio&logoColor=white)](https://std.ourbanna.com)
+[![Site Camila](https://img.shields.io/badge/SiteCamila-pink?style=for-the-badge&logo=southwestairlines&logoColor=white)](https://camilaloliveira.com)
+[![Urbanna](https://img.shields.io/badge/Urbanna-purple?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://ourbanna.com)
+
+
 ------------
 
 <details>
