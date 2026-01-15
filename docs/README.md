@@ -181,8 +181,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ [flo-bit/blento](https://github.com/flo-bit/blento) marcado com estrela<br>
-2. ⬆️ Enviou undefined commit(s) para [studiourbanna/GeraLocal](https://github.com/studiourbanna/GeraLocal)<br>
+1. ⬆️ Enviou undefined commit(s) para [Apprendendo/assistente-recomendacao](https://github.com/Apprendendo/assistente-recomendacao)<br>
+2. ⭐ [flo-bit/blento](https://github.com/flo-bit/blento) marcado com estrela<br>
 3. ⬆️ Enviou undefined commit(s) para [studiourbanna/GeraLocal](https://github.com/studiourbanna/GeraLocal)<br>
 4. ⬆️ Enviou undefined commit(s) para [studiourbanna/GeraLocal](https://github.com/studiourbanna/GeraLocal)<br>
 5. ⬆️ Enviou undefined commit(s) para [studiourbanna/GeraLocal](https://github.com/studiourbanna/GeraLocal)<br>
