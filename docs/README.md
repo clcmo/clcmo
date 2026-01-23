@@ -185,7 +185,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 2. ⬆️ Enviou undefined commit(s) para [clcmo/old](https://github.com/clcmo/old)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/old](https://github.com/clcmo/old)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/old](https://github.com/clcmo/old)<br>
-5. 👍 [#74](https://github.com/st4ple/solid-jekyll/pull/74#pullrequestreview-3694413447) aprovado em [st4ple/solid-jekyll](https://github.com/st4ple/solid-jekyll)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/old](https://github.com/clcmo/old)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
