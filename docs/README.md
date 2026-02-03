@@ -181,11 +181,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ [v1.4.7](https://github.com/clcmo/clcmo.github.io/releases/tag/v1.4.7) lançado em [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
 2. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-3. ✌️ [v1.4.6](https://github.com/clcmo/clcmo.github.io/releases/tag/v1.4.6) lançado em [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-5. ✌️ [v1.4.5](https://github.com/clcmo/clcmo.github.io/releases/tag/v1.4.5) lançado em [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+5. ✌️ [v1.4.7](https://github.com/clcmo/clcmo.github.io/releases/tag/v1.4.7) lançado em [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
