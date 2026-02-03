@@ -181,7 +181,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her GitHub
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+1. ⭐ [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io) marcado com estrela<br>
 2. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
