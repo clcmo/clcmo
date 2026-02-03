@@ -162,10 +162,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [O Inventário](https://camilaloliveira.com/2026/02/02/o-inventario/)
 - [A Montanha Russa](https://camilaloliveira.com/2025/12/27/a-montanha-russa/)
 - [A Travessia, a Pedra e a Arte de Ensinar: Um ciclo em três atos](https://camilaloliveira.com/2025/12/08/a-travessia-a-pedra-e-a-arte-de-ensinar-um-ciclo-em-tres-atos/)
 - [No Jogo de Truco Mundial, Lula foi de Zap – e venceu](https://camilaloliveira.com/2025/07/10/no-jogo-de-truco-mundial-lula-foi-de-zap-e-venceu/)
-- […sinal?](https://camilaloliveira.com/2025/07/10/sinal/)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
