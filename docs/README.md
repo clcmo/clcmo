@@ -34,7 +34,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 * Postgraduate, Lato-Sensu, in Artificial Intelligence <br/>(PUC-SP)
 * Technologist in Systems Analysis and Development <br/>(FATEC-SP)
 * Bachelor in Public Administration <br/>(UFOP-MG)
-* Studying Bachelor in Math <br/>(UNIVESP - SP)
+* Studying Bachelor in Physics <br/>(USP - SP)
   
 </details>
   
@@ -43,7 +43,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   <h3> 🖥️ Works </h3>
   </summary>
 
-* Teacher in Information Techonologies (Full - ⭐⭐) <br/>(Centro Paula Souza - ETEC Bartolomeu and ETEC Ermelinda)
+* Teacher in Information Techonologies (Senior - ⭐⭐⭐) <br/>(Centro Paula Souza - ETEC Bartolomeu and ETEC Ermelinda)
 * Android Mobile Engineering and Development (Full - ⭐⭐) <br/>(Itaú; Robert Half + PagBank PagSeguro; and BRQ + Itaú) 
 * Android Mobile Engineering and Development (Junior - ⭐) <br/>(TCS + Itaú)
 * Mobile Development Assistant - Android <br/>(TCS + Itaú)
@@ -76,8 +76,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   
 * If you don´t remind about [SEGURANÇAAAAAAAA](https://www.instagram.com/reel/DIHE7yKuDaS/)... BAU BAU! (3A e 3B, 2025)
 * Those crazy show-offs! Esses Amostradinhos Insanos! (2 AMS, 3A e 3B, 2025)
-* Professor, my PC broke down! (3A, 2024)
-* Write it down with the bright pink pen. (2A, 2AMS, 3A e 3B, 2024)
+* Professor, my PC broke down! (2A, 2024)
+* Write it down with the bright pink pen. (2A, 2AMS, 2025; 2A e 2B, 2024)
 * Puppy barks: woof woof (2A e 2AMS, 2025)
 * We have some fast rimenders (2AMS, 2025)
 * Giovana, the oven fell! (3BB, 2025)
@@ -98,9 +98,9 @@ I also have knowledge in two languages: English and French, and I aim, in additi
     <h3> 📚 Control Versions </h3>
   </summary>
   
-  [![Git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white)](#)
-  [![Jira](https://img.shields.io/badge/jira-blue?style=for-the-badge&logo=Jira&logoColor=white)](#)
+  [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+  [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+  [![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
   
 </details>
 
@@ -109,14 +109,14 @@ I also have knowledge in two languages: English and French, and I aim, in additi
     <h3> 📚 Frontend </h3>
   </summary>
   
-  [![Java](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
-  [![Kotlin](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
-  [![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=Android&logoColor=white)](#)
-  [![Wordpress](https://img.shields.io/badge/wordpress-white?style=for-the-badge&logo=wordpress&logoColor=blue)](#)
-  [![HTML5](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
-  [![CSS3](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=CSS&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=) 
-  [![SCSS](https://img.shields.io/badge/scss-violet?style=for-the-badge&logo=Sass&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=scss&sort=)
-  [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=tyoescript&sort=)
+  [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=typescript&sort=)
+  [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/clcmo?tab=repositories&q=&type=&language=javascript&sort=)
+  [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
+  [![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=)
+  [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+  [![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
+  [![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
+  [![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#)
 
 </details>
 
@@ -125,10 +125,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
     <h3> 📚 Backend </h3>
   </summary>
   
-  [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=js&sort=)
-  [![PHP](https://img.shields.io/badge/php-blue?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=php&sort=)
-  [![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=Docker&logoColor=blue)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
-  [![MySQL](https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
+  [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+  [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=php&sort=)
+  [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
+  [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
   
 </details>
     
@@ -137,14 +137,23 @@ I also have knowledge in two languages: English and French, and I aim, in additi
     <h3> 📚 Skills </h3>
   </summary>
   
-  [![Planning](https://img.shields.io/badge/planning-red?style=for-the-badge&logo=Trello&logoColor=white)](#)
-  [![Kanban](https://img.shields.io/badge/kanban-violet?style=for-the-badge&logo=Jira&logoColor=white)](#)
-  [![Architetures](https://img.shields.io/badge/architetures-grey?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
-  [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-blueviolet?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
+  [![Planning](https://img.shields.io/badge/planning-0079BF?style=for-the-badge&logo=Trello&logoColor=white)](#)
+  [![Kanban](https://img.shields.io/badge/kanban-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+  [![Architetures](https://img.shields.io/badge/architetures-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
+  [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
 
 </details>
 
 ### Recently, she worked on
+
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+<!--RECENT_ACTIVITY:end-->
+
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 [![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/clcmo) 
@@ -178,14 +187,5 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 <table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=QRDsbAHph_w"><img width="200px" src="https://i.ytimg.com/vi/QRDsbAHph_w/mqdefault.jpg"></a></td>
 <td width="800px"><a href="https://www.youtube.com/watch?v=QRDsbAHph_w">Envelhecer com a Tecnologia | Apprendendo com Camila | Caiu no Enem</a><br/>09/11/2025</td></tr></table>
 <!-- YOUTUBE:END -->
-
-### On Her GitHub
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
-<!--RECENT_ACTIVITY:end-->
 
 </details>
