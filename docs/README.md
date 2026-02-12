@@ -147,11 +147,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ [Apprendendo/sebo](https://github.com/Apprendendo/sebo) marcado com estrela<br>
-2. ⭐ [Apprendendo/AulasPHP](https://github.com/Apprendendo/AulasPHP) marcado com estrela<br>
-3. ⭐ [Apprendendo/assistente-recomendacao](https://github.com/Apprendendo/assistente-recomendacao) marcado com estrela<br>
-4. ⭐ [clcmo/dockercnw](https://github.com/clcmo/dockercnw) marcado com estrela<br>
-5. ⭐ [clcmo/sebo_crud](https://github.com/clcmo/sebo_crud) marcado com estrela<br>
+1. ⭐ [clcmo/Learning-TypeScript](https://github.com/clcmo/Learning-TypeScript) marcado com estrela<br>
+2. ⭐ [clcmo/messenger](https://github.com/clcmo/messenger) marcado com estrela<br>
+3. ⭐ [clcmo/MiExt](https://github.com/clcmo/MiExt) marcado com estrela<br>
+4. ⭐ [BartoInfo/dockercomsite](https://github.com/BartoInfo/dockercomsite) marcado com estrela<br>
+5. ⭐ [clcmo/classic](https://github.com/clcmo/classic) marcado com estrela<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
