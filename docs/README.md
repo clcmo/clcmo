@@ -147,11 +147,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 PR [#14425](undefined) aberto em [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/simple-icons](https://github.com/clcmo/simple-icons)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/simple-icons](https://github.com/clcmo/simple-icons)<br>
-4. 🔱 [clcmo/simple-icons](https://github.com/clcmo/simple-icons) bifurcado de [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
-5. ⬆️ Enviou undefined commit(s) para [Apprendendo/Aulas_GCW](https://github.com/Apprendendo/Aulas_GCW)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-github](https://github.com/clcmo/skills-introduction-to-github)<br>
+2. 💪 PR [#3](undefined) aberto em [clcmo/skills-introduction-to-github](https://github.com/clcmo/skills-introduction-to-github)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-github](https://github.com/clcmo/skills-introduction-to-github)<br>
+4. 💪 PR [#2](undefined) aberto em [clcmo/skills-introduction-to-github](https://github.com/clcmo/skills-introduction-to-github)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-github](https://github.com/clcmo/skills-introduction-to-github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
