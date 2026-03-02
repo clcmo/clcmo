@@ -148,10 +148,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Enviou undefined commit(s) para [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
+2. 💪 PR [#2](undefined) aberto em [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-github](https://github.com/clcmo/skills-introduction-to-github)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
