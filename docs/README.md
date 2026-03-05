@@ -148,9 +148,9 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
-2. 💪 PR [#2](undefined) aberto em [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
-4. 💪 PR [#2](undefined) aberto em [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
+2. 💬 Comentou em [#1](https://github.com/clcmo/skills-introduction-to-codeql/issues/1#issuecomment-4004556018) em [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
+4. 💪 PR [#2](undefined) aberto em [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/skills-communicate-using-markdown](https://github.com/clcmo/skills-communicate-using-markdown)<br>
 <!--RECENT_ACTIVITY:end-->
 
