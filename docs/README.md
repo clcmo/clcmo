@@ -147,11 +147,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [BartoInfo/titulosHTML](https://github.com/BartoInfo/titulosHTML)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
-3. 💬 Comentou em [#1](https://github.com/clcmo/skills-introduction-to-codeql/issues/1#issuecomment-4004556018) em [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
-5. 💪 PR [#2](undefined) aberto em [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/clcmo.github.io](https://github.com/clcmo/clcmo.github.io)<br>
+2. ⬆️ Enviou undefined commit(s) para [BartoInfo/titulosHTML](https://github.com/BartoInfo/titulosHTML)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
+4. 💬 Comentou em [#1](https://github.com/clcmo/skills-introduction-to-codeql/issues/1#issuecomment-4004556018) em [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/skills-introduction-to-codeql](https://github.com/clcmo/skills-introduction-to-codeql)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
