@@ -171,10 +171,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [Procurando…](https://camilaloliveira.com/2026/03/30/procurando/)
 - [Como é ser a “tia” dos bixos?](https://camilaloliveira.com/2026/03/10/como-e-ser-a-tia-dos-bixos/)
 - [O Inventário](https://camilaloliveira.com/2026/02/02/o-inventario/)
 - [A Montanha Russa](https://camilaloliveira.com/2025/12/27/a-montanha-russa/)
-- [A Travessia, a Pedra e a Arte de Ensinar: Um ciclo em três atos](https://camilaloliveira.com/2025/12/08/a-travessia-a-pedra-e-a-arte-de-ensinar-um-ciclo-em-tres-atos/)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
