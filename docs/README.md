@@ -151,7 +151,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 2. ⭐ [BrasilAPI/cep-promise](https://github.com/BrasilAPI/cep-promise) marcado com estrela<br>
 3. ⭐ [omurilo/papiro](https://github.com/omurilo/papiro) marcado com estrela<br>
 4. ⬆️ Enviou undefined commit(s) para [BartoInfo/titulosHTML](https://github.com/BartoInfo/titulosHTML)<br>
-5. ⬆️ Enviou undefined commit(s) para [lumiestudiocare/lumiestudio-admin](https://github.com/lumiestudiocare/lumiestudio-admin)<br>
+5. ⬆️ Enviou undefined commit(s) para [lumiestudiocare/lumiestudiocare.github.io](https://github.com/lumiestudiocare/lumiestudiocare.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
