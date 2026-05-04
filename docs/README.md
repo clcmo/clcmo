@@ -171,10 +171,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [Treino e Foco](https://camilaloliveira.com/2026/05/03/treino-e-foco/)
 - [Procurando…](https://camilaloliveira.com/2026/03/30/procurando/)
 - [Como é ser a “tia” dos bixos?](https://camilaloliveira.com/2026/03/10/como-e-ser-a-tia-dos-bixos/)
 - [O Inventário](https://camilaloliveira.com/2026/02/02/o-inventario/)
-- [A Montanha Russa](https://camilaloliveira.com/2025/12/27/a-montanha-russa/)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
