@@ -148,7 +148,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Enviou undefined commit(s) para [clcmo/footer_copyright](https://github.com/clcmo/footer_copyright)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/marca-camila](https://github.com/clcmo/marca-camila)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/footer_copyright](https://github.com/clcmo/footer_copyright)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/marca-camila](https://github.com/clcmo/marca-camila)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/marca-camila](https://github.com/clcmo/marca-camila)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/marca-camila](https://github.com/clcmo/marca-camila)<br>
