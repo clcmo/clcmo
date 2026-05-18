@@ -147,9 +147,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ [2.0.0](https://github.com/clcmo/rodape-automatico/releases/tag/2.0.0) lançado em [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
-2. ⭐ [leoosilvp/FIAP-achievements](https://github.com/leoosilvp/FIAP-achievements) marcado com estrela<br>
-3. ✌️ [5.2.0](https://github.com/clcmo/plugin-acessibilidade-integrada/releases/tag/5.2.0) lançado em [clcmo/plugin-acessibilidade-integrada](https://github.com/clcmo/plugin-acessibilidade-integrada)<br>
+1. ⭐ [backend-br/vagas](https://github.com/backend-br/vagas) marcado com estrela<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
