@@ -147,8 +147,8 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ [backend-br/vagas](https://github.com/backend-br/vagas) marcado com estrela<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
+1. ⬆️ Enviou undefined commit(s) para [BartoInfo/bandabarto](https://github.com/BartoInfo/bandabarto)<br>
+2. ⭐ [backend-br/vagas](https://github.com/backend-br/vagas) marcado com estrela<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
