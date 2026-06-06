@@ -156,11 +156,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [BartoInfo/bandabarto](https://github.com/BartoInfo/bandabarto)<br>
-2. ⬆️ Enviou undefined commit(s) para [BartoInfo/faviconHTML](https://github.com/BartoInfo/faviconHTML)<br>
-3. ⬆️ Enviou undefined commit(s) para [BartoInfo/bandabarto](https://github.com/BartoInfo/bandabarto)<br>
-4. ⭐ [backend-br/vagas](https://github.com/backend-br/vagas) marcado com estrela<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/rodape-automatico](https://github.com/clcmo/rodape-automatico)<br>
+1. ⬆️ Enviou undefined commit(s) para [Apprendendo/MeuPrimeiroProjeto](https://github.com/Apprendendo/MeuPrimeiroProjeto)<br>
+2. 💪 PR [#2](undefined) aberto em [Apprendendo/MeuPrimeiroProjeto](https://github.com/Apprendendo/MeuPrimeiroProjeto)<br>
+3. ✔️ Fechou a questão [#1](https://github.com/Apprendendo/MeuPrimeiroProjeto/issues/1) em [Apprendendo/MeuPrimeiroProjeto](https://github.com/Apprendendo/MeuPrimeiroProjeto)<br>
+4. ❗️ Abriu a questão [#1](https://github.com/Apprendendo/MeuPrimeiroProjeto/issues/1) em [Apprendendo/MeuPrimeiroProjeto](https://github.com/Apprendendo/MeuPrimeiroProjeto)<br>
+5. ⬆️ Enviou undefined commit(s) para [BartoInfo/bandabarto](https://github.com/BartoInfo/bandabarto)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
