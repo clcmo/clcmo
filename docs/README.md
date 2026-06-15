@@ -163,13 +163,17 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 5. ⭐ [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) marcado com estrela<br>
 <!--RECENT_ACTIVITY:end-->
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=clcmo&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-[![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/clcmo) 
-
-[![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clcmo&layout=compact&langs_count=8&theme=algolia)](https://github.com/clcmo) 
-
 </details>
+
+![Top language](https://stats.pphat.top/languages?username=clcmo)
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ------------
 
