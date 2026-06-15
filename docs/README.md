@@ -156,11 +156,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [lumiestudiocare/lumiestudio-admin](https://github.com/lumiestudiocare/lumiestudio-admin)<br>
+1. ⭐ [Chamidu0423/IOS-Caculator-Chrome-Extension](https://github.com/Chamidu0423/IOS-Caculator-Chrome-Extension) marcado com estrela<br>
 2. ⬆️ Enviou undefined commit(s) para [lumiestudiocare/lumiestudio-admin](https://github.com/lumiestudiocare/lumiestudio-admin)<br>
-3. ⭐ [klsdfernando/VoidTunnel](https://github.com/klsdfernando/VoidTunnel) marcado com estrela<br>
-4. ⭐ [Jaydeep-Yadav/Mystery-Message](https://github.com/Jaydeep-Yadav/Mystery-Message) marcado com estrela<br>
-5. ⭐ [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) marcado com estrela<br>
+3. ⬆️ Enviou undefined commit(s) para [lumiestudiocare/lumiestudio-admin](https://github.com/lumiestudiocare/lumiestudio-admin)<br>
+4. ⭐ [klsdfernando/VoidTunnel](https://github.com/klsdfernando/VoidTunnel) marcado com estrela<br>
+5. ⭐ [Jaydeep-Yadav/Mystery-Message](https://github.com/Jaydeep-Yadav/Mystery-Message) marcado com estrela<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
