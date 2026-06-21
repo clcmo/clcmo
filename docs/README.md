@@ -184,10 +184,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [Alguém explica o que é esse alerta?](https://camilaloliveira.com/fala-mi/alguem-explica-o-que-e-esse-alerta/)
 - [MigrAção?](https://camilaloliveira.com/fala-mi/migracao/)
 - [Treino e Foco](https://camilaloliveira.com/fala-mi/treino-e-foco/)
 - [Procurando…](https://camilaloliveira.com/poemas-e-prosas/procurando/)
-- [Como é ser a “tia” dos bixos?](https://camilaloliveira.com/fala-mi/como-e-ser-a-tia-dos-bixos/)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
