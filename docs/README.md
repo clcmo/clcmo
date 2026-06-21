@@ -156,11 +156,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/my-first-copilot](https://github.com/clcmo/my-first-copilot)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/my-first-copilot](https://github.com/clcmo/my-first-copilot)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
-4. ⭐ [Chamidu0423/IOS-Caculator-Chrome-Extension](https://github.com/Chamidu0423/IOS-Caculator-Chrome-Extension) marcado com estrela<br>
-5. ⬆️ Enviou undefined commit(s) para [lumiestudiocare/lumiestudio-admin](https://github.com/lumiestudiocare/lumiestudio-admin)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
