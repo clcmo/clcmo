@@ -184,10 +184,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [Pergunta da Rodada #1](https://camilaloliveira.com/fala-mi/pergunta/pergunta-da-rodada-1/)
 - [Alguém explica o que é esse alerta?](https://camilaloliveira.com/fala-mi/alguem-explica-o-que-e-esse-alerta/)
 - [MigrAção?](https://camilaloliveira.com/fala-mi/migracao/)
 - [Treino e Foco](https://camilaloliveira.com/fala-mi/treino-e-foco/)
-- [Procurando…](https://camilaloliveira.com/poemas-e-prosas/procurando/)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
