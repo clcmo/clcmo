@@ -1,4 +1,4 @@
-<h1> Hello, I'm Camila L. Oliveira 
+<h1> Hello, I'm Camila 
   <a href="https://taggo.one/clcmo">
     <img src="https://github.com/clcmo/clcmo/blob/main/docs/images/memoji_mi.png?raw=true"  width="15%" align="right" alt="Memoji"/>
   </a>
