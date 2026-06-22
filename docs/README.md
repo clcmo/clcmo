@@ -156,11 +156,11 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/my-first-copilot](https://github.com/clcmo/my-first-copilot)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/my-first-copilot](https://github.com/clcmo/my-first-copilot)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/MiExt](https://github.com/clcmo/MiExt)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/locadora-azure](https://github.com/clcmo/locadora-azure)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
