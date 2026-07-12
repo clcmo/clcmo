@@ -156,10 +156,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 ### Recently, she worked on
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ [santifer/career-ops](https://github.com/santifer/career-ops) marcado com estrela<br>
-2. 🔱 [clcmo/my-first-copilot](https://github.com/clcmo/my-first-copilot) bifurcado de [digitalinnovationone/my-first-copilot](https://github.com/digitalinnovationone/my-first-copilot)<br>
-3. 🔱 [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio) bifurcado de [digitalinnovationone/trilha-net-azure-desafio](https://github.com/digitalinnovationone/trilha-net-azure-desafio)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio)<br>
+1. ⬆️ Enviou undefined commit(s) para [lumiestudiocare/lumiestudiocare.github.io](https://github.com/lumiestudiocare/lumiestudiocare.github.io)<br>
+2. ⭐ [santifer/career-ops](https://github.com/santifer/career-ops) marcado com estrela<br>
+3. 🔱 [clcmo/my-first-copilot](https://github.com/clcmo/my-first-copilot) bifurcado de [digitalinnovationone/my-first-copilot](https://github.com/digitalinnovationone/my-first-copilot)<br>
+4. 🔱 [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio) bifurcado de [digitalinnovationone/trilha-net-azure-desafio](https://github.com/digitalinnovationone/trilha-net-azure-desafio)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/trilha-net-azure-desafio](https://github.com/clcmo/trilha-net-azure-desafio)<br>
 <!--RECENT_ACTIVITY:end-->
 
