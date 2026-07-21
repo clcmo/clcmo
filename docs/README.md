@@ -184,10 +184,10 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 ### On Her Blog (in Portuguese)
 <!-- BLOG:START -->
+- [Ei, sinal…](https://camilaloliveira.com/poemas-e-prosas/ei-sinal/)
 - [Deu trabalho, mas deu certo…](https://camilaloliveira.com/fala-mi/deu-trabalho-mas-deu-certo/)
 - [Pergunta da rodada #2](https://camilaloliveira.com/fala-mi/pergunta-da-rodada-2/)
 - [20 anos, uma lente e um pouco de coragem](https://camilaloliveira.com/fala-mi/20-anos-uma-lente-e-um-pouco-de-coragem/)
-- [Pergunta da Rodada #1](https://camilaloliveira.com/fala-mi/pergunta/pergunta-da-rodada-1/)
 <!-- BLOG:END -->
 
 ### On Her YouTube (in Portuguese)
