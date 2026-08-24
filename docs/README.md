@@ -59,7 +59,7 @@ I also have knowledge in two languages: English and French, and I aim, in additi
   </summary>
 
 * [Develop GenAI Apps with Gemini and Streamlit Skill Badge (Google Cloud)](https://www.credly.com/badges/c6fa014c-d1da-4fea-a1b3-1385f3df5301/public_url)
-* 
+* [Intro To Git](https://learn.microsoft.com/api/achievements/share/pt-br/CamilaLOliveira-7670/3ZBGLFZH?sharingId=29592E91721EFBFD)
 </details>
   
 <details>
