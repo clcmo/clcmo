@@ -157,9 +157,9 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Enviou undefined commit(s) para [Apprendendo/Interfaces](https://github.com/Apprendendo/Interfaces)<br>
-2. ⬆️ Enviou undefined commit(s) para [Apprendendo/ExemploHTMLSimples](https://github.com/Apprendendo/ExemploHTMLSimples)<br>
-3. ⬆️ Enviou undefined commit(s) para [Apprendendo/.github](https://github.com/Apprendendo/.github)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/testeTuringUSP](https://github.com/clcmo/testeTuringUSP)<br>
+2. ⬆️ Enviou undefined commit(s) para [Apprendendo/Interfaces](https://github.com/Apprendendo/Interfaces)<br>
+3. ⬆️ Enviou undefined commit(s) para [Apprendendo/ExemploHTMLSimples](https://github.com/Apprendendo/ExemploHTMLSimples)<br>
+4. ⬆️ Enviou undefined commit(s) para [Apprendendo/.github](https://github.com/Apprendendo/.github)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/testeTuringUSP](https://github.com/clcmo/testeTuringUSP)<br>
 <!--RECENT_ACTIVITY:end-->
 
