@@ -1,188 +1,191 @@
-<h1> Hello, I'm Camila 
-  <a href="https://taggo.one/clcmo">
-    <img src="https://github.com/clcmo/clcmo/blob/main/docs/images/memoji_mi.png?raw=true"  width="15%" align="right" alt="Memoji"/>
-  </a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oi,%20Eu%20Sou%20A%20Camila!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<a href="https://taggo.one/clcmo">
+  <img src="https://github.com/clcmo/clcmo/blob/main/docs/images/memoji_mi.png?raw=true" width="100" alt="Memoji" style="border-radius:50%"/>
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A6CF7&center=true&vCenter=true&width=560&lines=Professora+%40+ETEC+Bartolomeu;Licencianda+em+F%C3%ADsica+%40+USP;Escritora;Dev+Android+%7C+Web+%7C+Mobile" alt="Typing SVG" />
+
+<br/>
 
 [![Apprendendo](https://img.shields.io/badge/Apprendendo-blue?style=for-the-badge&logo=rss&logoColor=white)](https://apprendendo.blog)
 [![stdurb](https://img.shields.io/badge/stdurb-black?style=for-the-badge&logo=protodotio&logoColor=white)](https://std.ourbanna.com)
 [![Site Camila](https://img.shields.io/badge/SiteCamila-pink?style=for-the-badge&logo=southwestairlines&logoColor=white)](https://camilaloliveira.com)
 [![Urbanna](https://img.shields.io/badge/Urbanna-purple?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://ourbanna.com)
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 
-------------
+</div>
 
-<details>
-  <summary>
-    <h2>👩‍🦰 About Me</h2>
-  </summary>
-  
-I've been working in development since 2019, developing features for Itaú and PagBank. As a team, I've developed solutions for e-commerce, financial education, payments, communications and analytics. I was awarded second place at HackaPag, in June 2022, with a project focused on financial education.
+---
 
-I have a postgraduate degree in Artificial Intelligence from TIDD at PUC-SP, with the article "Consumerism, Morality and Excesses of the Digitalised Society". Since 2021, I've been doing research into the future of society with the internet of things and the advent of artificial intelligence - which I intend to do for a master's degree.
+<details open>
+  <summary><h2>👩‍🦰 Sobre Mim</h2></summary>
 
-I graduated from FATEC-SP with a degree in Systems Analysis and Development, and from UFOP with a degree in Public Administration.
+Trabalho com desenvolvimento desde 2019, criando funcionalidades para Itaú e PagBank — soluções de e-commerce, educação financeira, pagamentos, comunicações e analytics. Fui premiada em 2º lugar na HackaPag (junho/2022) com um projeto de educação financeira.
 
-I also have knowledge in two languages: English and French, and I aim, in addition to continuing to improve myself, to be able to teach people who are curious and willing to get to know this so rich area that is technology.
-  
-<details>
-  <summary>
-  <h3> 🏫 Education </h3>
-  </summary>
-  
-* Postgraduate, Lato-Sensu, in Artificial Intelligence <br/>(PUC-SP)
-* Technologist in Systems Analysis and Development <br/>(FATEC-SP)
-* Bachelor in Public Administration <br/>(UFOP-MG)
-* Studying Bachelor in Physics <br/>(USP - SP)
-  
-</details>
-  
-<details>
-  <summary>
-  <h3> 🖥️ Works </h3>
-  </summary>
+Tenho pós-graduação Lato Sensu em Inteligência Artificial pela TIDD/PUC-SP, com o artigo *"Consumerism, Morality and Excesses of the Digitalised Society"*. Desde 2021 pesquiso o futuro da sociedade conectada à internet das coisas e à IA — meta que pretendo levar a um mestrado.
 
-* Teacher in Information Techonologies (Senior - ⭐⭐⭐) <br/>(Centro Paula Souza - ETEC Bartolomeu and ETEC Ermelinda)
-* Android Mobile Engineering and Development (Full - ⭐⭐) <br/>(Itaú; Robert Half + PagBank PagSeguro; and BRQ + Itaú) 
-* Android Mobile Engineering and Development (Junior - ⭐) <br/>(TCS + Itaú)
-* Mobile Development Assistant - Android <br/>(TCS + Itaú)
-* Mobile Development Trainee - Android <br/>(TCS + Itaú)
-* Internship in Systems Analysis and Development <br/>(ETEC Antonio Furlan)
-* Two internships in Public Administration <br/>(CETESB and RR Business)
-  
-</details>
+Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC-SP e em Administração Pública pela UFOP. Falo português, inglês e francês, e busco sempre me aproximar de quem quer aprender tecnologia comigo.
+
+<div align="center">
+
+| 🎓 Formação | 🖥️ Atuação | 🌱 Hoje |
+|:---:|:---:|:---:|
+| Licenciatura em Física — USP | Física Computacional  | Monitoria de Física — ETEC Jandira |
+| Pós em IA — PUC-SP | Dev Android/Web — Itaú, PagBank | Professora de TI — Centro Paula Souza |
+| Tecnólogo ADS — FATEC-SP | Trainee Android - TCS | Desenvolvedora Frontend |
+| Bacharelado em Admin. Pública — UFOP | Dois estágios | Gestão de Conteúdo |
+
+</div>
 
 <details>
-  <summary>
-  <h3> 🖥️ Certifications </h3>
-  </summary>
+  <summary><h3>🏫 Educação</h3></summary>
 
-* [Develop GenAI Apps with Gemini and Streamlit Skill Badge (Google Cloud)](https://www.credly.com/badges/c6fa014c-d1da-4fea-a1b3-1385f3df5301/public_url)
-* [Intro To Git](https://learn.microsoft.com/api/achievements/share/pt-br/CamilaLOliveira-7670/3ZBGLFZH?sharingId=29592E91721EFBFD)
-</details>
-  
-<details>
-  <summary>
-  <h3> 📚 Learnings and Hobbies </h3>
-  </summary>
-  
-* I'm learning about Google Analytics and AWS, architetures, modules, Flutter and more;
-* I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](https://studiourbanna.github.io);
-* I shared some lessons about IT, AI, Mobile Developer, Web Developer and Games Developer on [apprendendo](https://apprendendo.blog);
-* I love 🥤 Soda, 🎮 Games and 🎭 Arts. Specially, photos and music.
-* The most funny teacher of ETEC Bartolomeu, according by classrooms.
-* Corinthiana!
-* I helped prepare the best hot dogs for Barto's Festa das Tradições (June Festival)!
+- 🎓 Licenciatura em Física — **USP** *(em andamento, previsão para 2031)*
+- 🎓 Pós-graduação Lato Sensu em Inteligência Artificial — **PUC-SP (TIDD)**
+- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas — **FATEC-SP**
+- 🎓 Bacharelado em Administração Pública — **UFOP-MG**
 
 </details>
 
 <details>
+  <summary><h3>🖥️ Experiência</h3></summary>
 
-  <summary>
-  <h3> 📚 Bests memes in the classrooms </h3>
-  </summary>
-  
-* If you don´t remind about [SEGURANÇAAAAAAAA](https://www.instagram.com/reel/DIHE7yKuDaS/)... BAU BAU! (3A e 3B, 2025)
-* Those crazy show-offs! Esses Amostradinhos Insanos! (2 AMS, 3A e 3B, 2025)
-* Professor, my PC broke down! (2A, 2024)
-* Write it down with the bright pink pen. (2A, 2AMS, 2025; 2A e 2B, 2024)
-* Puppy barks: woof woof (2A e 2AMS, 2025)
-* We have some fast rimenders (2AMS, 2025)
-* Giovana, the oven fell! (3BB, 2025)
-* Kauã, ops... (3BB e 2AMS, 2025)
-    
-
-</details>
-  </details>
-
-------------
-<details>
-  <summary>
-   <h2>🖥️ Technologies and Skills</h2>
-  </summary>
-
-<details>
-  <summary>
-    <h3> 📚 Control Versions </h3>
-  </summary>
-  
-  [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-  [![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
-  
-</details>
-
-<details>
-  <summary>
-    <h3> 📚 Frontend </h3>
-  </summary>
-  
-  [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=typescript&sort=)
-  [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/clcmo?tab=repositories&q=&type=&language=javascript&sort=)
-  [![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=html&sort=)
-  [![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=css&sort=)
-  [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
-  [![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=java&sort=)
-  [![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=kotlin&sort=)
-  [![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#)
+```
+Professora de TI (Sênior)      ⭐⭐⭐        Centro Paula Souza — ETEC Bartolomeu / ETEC Ermelinda
+Eng. Mobile Android (Pleno)    ⭐⭐          Itaú · Robert Half + PagSeguro · BRQ + Itaú
+Eng. Mobile Android (Jr.)      ⭐           TCS + Itaú
+Assistente Dev. Mobile Android              TCS + Itaú
+Trainee Dev. Mobile Android                 TCS + Itaú
+Estágio ADS                                 ETEC Antônio Furlan
+Estágios Administração Pública              CETESB · RR Business
+```
 
 </details>
 
 <details>
-  <summary>
-    <h3> 📚 Backend </h3>
-  </summary>
-  
-  [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-  [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=php&sort=)
-  [![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=docker&sort=)
-  [![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&q=&type=&language=mysql&sort=) 
-  
+  <summary><h3>🖥️ Certificações</h3></summary>
+
+- 🏅 [Develop GenAI Apps with Gemini and Streamlit — Google Cloud](https://www.credly.com/badges/c6fa014c-d1da-4fea-a1b3-1385f3df5301/public_url)
+- 🏅 [Intro to Git — Microsoft Learn](https://learn.microsoft.com/api/achievements/share/pt-br/CamilaLOliveira-7670/3ZBGLFZH?sharingId=29592E91721EFBFD)
+
 </details>
-    
+
 <details>
-  <summary>
-    <h3> 📚 Skills </h3>
-  </summary>
-  
-  [![Planning](https://img.shields.io/badge/planning-0079BF?style=for-the-badge&logo=Trello&logoColor=white)](#)
-  [![Kanban](https://img.shields.io/badge/kanban-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
-  [![Architetures](https://img.shields.io/badge/architetures-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
-  [![Work With Teams](https://img.shields.io/badge/work%20with%20teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
+  <summary><h3>📚 Aprendizados e Hobbies</h3></summary>
+
+- 🔭 Estudando Google Analytics, AWS, arquiteturas de software e Flutter
+- 🎥 Aulas sobre criação de sites e ciclo de vida do Android no [studio urbanna](https://studiourbanna.github.io)
+- ✍️ Conteúdos sobre TI, IA, Dev Mobile/Web/Games no [apprendendo.blog](https://apprendendo.blog)
+- 🥤 Refrigerante, 🎮 games e 🎭 artes — fotografia e música em especial
+- 😂 Eleita a professora mais engraçada da ETEC Bartolomeu (segundo as turmas)
+- ⚽ Corinthiana roots and culture
+- 🌭 Ajudou a preparar os melhores cachorros-quentes da Festa das Tradições do Barto!
 
 </details>
 
-### Recently, she worked on
+<details>
+  <summary><h3>😂 Melhores memes de sala de aula</h3></summary>
+
+| Frase / Momento | Turma(s) | Ano |
+|---|---|---|
+| SEGURANÇAAAAAAAA... BAU BAU! | 3A, 3B | 2025 |
+| Esses Amostradinhos Insanos! | 2 AMS, 3A, 3B | 2025 |
+| Professor, meu PC quebrou! | 2A | 2024 |
+| Escreve com a caneta rosa neon | 2A, 2AMS / 2A, 2B | 2025 / 2024 |
+| Au au (o cachorrinho) | 2A, 2AMS | 2025 |
+| Temos uns rimenders rápidos | 2AMS | 2025 |
+| Giovana, caiu o forno! | 3BB | 2025 |
+| Kauã, ops... | 3BB, 2AMS | 2025 |
+
+</details>
+
+</details>
+
+---
+
+<details open>
+  <summary><h2>🖥️ Tecnologias e Skills</h2></summary>
+
+<div align="center">
+
+**Controle de Versão**
+<br/>
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+
+**Frontend**
+<br/>
+[![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/clcmo?tab=repositories&language=typescript)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](https://github.com/clcmo?tab=repositories&language=javascript)
+[![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/clcmo?tab=repositories&language=html)
+[![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://github.com/clcmo?tab=repositories&language=css)
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/clcmo?tab=repositories&language=java)
+[![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)](https://github.com/clcmo?tab=repositories&language=kotlin)
+[![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#)
+
+**Backend**
+<br/>
+[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/clcmo?tab=repositories&language=php)
+[![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://github.com/clcmo?tab=repositories&language=mysql)
+
+**Skills**
+<br/>
+[![Planning](https://img.shields.io/badge/planning-0079BF?style=for-the-badge&logo=Trello&logoColor=white)](#)
+[![Kanban](https://img.shields.io/badge/kanban-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+[![Architectures](https://img.shields.io/badge/architetures-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)](#)
+[![Teamwork](https://img.shields.io/badge/work%20with%20teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)](#)
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=clcmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clcmo&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clcmo&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clcmo&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [Apprendendo/Interfaces](https://github.com/Apprendendo/Interfaces)<br>
-2. ⬆️ Enviou undefined commit(s) para [Apprendendo/Interfaces](https://github.com/Apprendendo/Interfaces)<br>
-3. ⬆️ Enviou undefined commit(s) para [Apprendendo/ExemploHTMLSimples](https://github.com/Apprendendo/ExemploHTMLSimples)<br>
-4. ⬆️ Enviou undefined commit(s) para [Apprendendo/.github](https://github.com/Apprendendo/.github)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/testeTuringUSP](https://github.com/clcmo/testeTuringUSP)<br>
+1. ⬆️ Push para [Apprendendo/Interfaces](https://github.com/Apprendendo/Interfaces)
+2. ⬆️ Push para [Apprendendo/Interfaces](https://github.com/Apprendendo/Interfaces)
+3. ⬆️ Push para [Apprendendo/ExemploHTMLSimples](https://github.com/Apprendendo/ExemploHTMLSimples)
+4. ⬆️ Push para [Apprendendo/.github](https://github.com/Apprendendo/.github)
+5. ⬆️ Push para [clcmo/testeTuringUSP](https://github.com/clcmo/testeTuringUSP)
 <!--RECENT_ACTIVITY:end-->
 
-</details>
-
-![Top language](https://stats.pphat.top/languages?username=clcmo)
-<br/>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+</div>
 
+</details>
 
-------------
+---
 
-<details>
-  <summary>
-    <h2>Camila's Updates</h2>
-  </summary>
+<details open>
+  <summary><h2>✍️ Atualizações da Camila</h2></summary>
 
-### On Her Blog (in Portuguese)
+### 📝 No blog (em português)
 <!-- BLOG:START -->
 - [Pergunta da Rodada #3](https://camilaloliveira.com/fala-mi/pergunta-da-rodada-3/)
 - [Ei, sinal…](https://camilaloliveira.com/poemas-e-prosas/ei-sinal/)
@@ -190,15 +193,27 @@ I also have knowledge in two languages: English and French, and I aim, in additi
 - [Pergunta da rodada #2](https://camilaloliveira.com/fala-mi/pergunta-da-rodada-2/)
 <!-- BLOG:END -->
 
-### On Her YouTube (in Portuguese)
-<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg"><img width="200px" src="https://i.ytimg.com/vi/JVBK44bkdAg/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg">A Trajetória Até a USP &lpar;Part. Rosanny Ayres&rpar; | Apprendendo com Camila</a><br/>03/08/2026</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=p0ARoMRARQ8"><img width="200px" src="https://i.ytimg.com/vi/p0ARoMRARQ8/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=p0ARoMRARQ8">Oi, aqui é a Prof. Camila | Apprendendo com Camila</a><br/>01/08/2026</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=Rj8EW-Fcpvo"><img width="200px" src="https://i.ytimg.com/vi/Rj8EW-Fcpvo/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=Rj8EW-Fcpvo">Criando um Assistente de Recomendação com Python e React | Apprendendo com Camila | Web e Mobile</a><br/>19/01/2026</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0"><img width="200px" src="https://i.ytimg.com/vi/2gwMXGV94t0/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0">MVC na Pratica: Criando interface de usuários | Apprendendo com Camila | SW e CNW</a><br/>24/11/2025</td></tr></table>
+### 🎥 No YouTube (em português)
+<!-- YOUTUBE:START -->
+<table>
+<tr>
+<td width="250px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg"><img width="200px" src="https://i.ytimg.com/vi/JVBK44bkdAg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JVBK44bkdAg"><b>A Trajetória Até a USP</b> (Part. Rosanny Ayres) | Apprendendo com Camila</a><br/>03/08/2026</td>
+</tr>
+<tr>
+<td width="250px"><a href="https://www.youtube.com/watch?v=p0ARoMRARQ8"><img width="200px" src="https://i.ytimg.com/vi/p0ARoMRARQ8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p0ARoMRARQ8"><b>Oi, aqui é a Prof. Camila</b> | Apprendendo com Camila</a><br/>01/08/2026</td>
+</tr>
+<tr>
+<td width="250px"><a href="https://www.youtube.com/watch?v=Rj8EW-Fcpvo"><img width="200px" src="https://i.ytimg.com/vi/Rj8EW-Fcpvo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Rj8EW-Fcpvo"><b>Criando um Assistente de Recomendação com Python e React</b> | Web e Mobile</a><br/>19/01/2026</td>
+</tr>
+<tr>
+<td width="250px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0"><img width="200px" src="https://i.ytimg.com/vi/2gwMXGV94t0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2gwMXGV94t0"><b>MVC na Prática: Criando interface de usuários</b> | SW e CNW</a><br/>24/11/2025</td>
+</tr>
+</table>
 <!-- YOUTUBE:END -->
 
 </details>
+</picture>
