@@ -194,14 +194,14 @@ Estágios Administração Pública              CETESB · RR Business
 <!-- BLOG:END -->
 
 ### 🎥 No YouTube (em português)
-<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg"><img width="200px" src="https://i.ytimg.com/vi/JVBK44bkdAg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=XO1R37CR4Nc"><img width="200px" src="https://i.ytimg.com/vi/XO1R37CR4Nc/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=XO1R37CR4Nc">Criando o site de um Gremio Academico com WP | Apprendendo com Camila | GCW</a><br/>30/08/2026</td></tr></table>
+<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg"><img width="200px" src="https://i.ytimg.com/vi/JVBK44bkdAg/mqdefault.jpg"></a></td>
 <td width="800px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg">A Trajetória Até a USP &lpar;Part. Rosanny Ayres&rpar; | Apprendendo com Camila</a><br/>03/08/2026</td></tr></table>
 <table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=p0ARoMRARQ8"><img width="200px" src="https://i.ytimg.com/vi/p0ARoMRARQ8/mqdefault.jpg"></a></td>
 <td width="800px"><a href="https://www.youtube.com/watch?v=p0ARoMRARQ8">Oi, aqui é a Prof. Camila | Apprendendo com Camila</a><br/>01/08/2026</td></tr></table>
 <table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=Rj8EW-Fcpvo"><img width="200px" src="https://i.ytimg.com/vi/Rj8EW-Fcpvo/mqdefault.jpg"></a></td>
 <td width="800px"><a href="https://www.youtube.com/watch?v=Rj8EW-Fcpvo">Criando um Assistente de Recomendação com Python e React | Apprendendo com Camila | Web e Mobile</a><br/>19/01/2026</td></tr></table>
-<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0"><img width="200px" src="https://i.ytimg.com/vi/2gwMXGV94t0/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0">MVC na Pratica: Criando interface de usuários | Apprendendo com Camila | SW e CNW</a><br/>24/11/2025</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </details>
