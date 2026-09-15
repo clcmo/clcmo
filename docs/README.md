@@ -82,8 +82,8 @@ Estágios Administração Pública              CETESB · RR Business
 - ✍️ Conteúdos sobre TI, IA, Dev Mobile/Web/Games no [apprendendo.blog](https://apprendendo.blog)
 - 🥤 Refrigerante, 🎮 games e 🎭 artes — fotografia e música em especial
 - 😂 Eleita a professora mais engraçada da ETEC Bartolomeu (segundo as turmas)
-- ⚽ Corinthiana roots and culture
-- 🌭 Ajudou a preparar os melhores cachorros-quentes da Festa das Tradições do Barto!
+- ⚽ Corinthiana!
+- 🌭 Ajudou a preparar os melhores cachorros-quentes da Festa Junina da Barto!
 
 </details>
 
@@ -95,11 +95,13 @@ Estágios Administração Pública              CETESB · RR Business
 | SEGURANÇAAAAAAAA... BAU BAU! | 3A, 3B | 2025 |
 | Esses Amostradinhos Insanos! | 2 AMS, 3A, 3B | 2025 |
 | Professor, meu PC quebrou! | 2A | 2024 |
-| Escreve com a caneta rosa neon | 2A, 2AMS / 2A, 2B | 2025 / 2024 |
+| Escreve com a caneta rosa choque | 2A, 2AMS / 2A, 2B | 2025 / 2024 |
 | Au au (o cachorrinho) | 2A, 2AMS | 2025 |
 | Temos uns rimenders rápidos | 2AMS | 2025 |
 | Giovana, caiu o forno! | 3BB | 2025 |
 | Kauã, ops... | 3BB, 2AMS | 2025 |
+| AMSeeerrrss, primeirinhooosss | 1 AMS | 2026 |
+| Entãaaaaooooo, significaaaaa | 1 Info | 2026 |
 
 </details>
 
