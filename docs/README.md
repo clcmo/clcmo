@@ -197,7 +197,7 @@ Estágios Administração Pública              CETESB · RR Business
 
 ### 🎥 No YouTube (em português)
 <!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=73BC6SSTcB0"><img width="200px" src="https://i.ytimg.com/vi/73BC6SSTcB0/mqdefault.jpg"></a></td>
-<td width="800px"><a href="https://www.youtube.com/watch?v=73BC6SSTcB0">E se o plano A demorar? Uma reflexão...</a><br/>24/09/2026</td></tr></table>
+<td width="800px"><a href="https://www.youtube.com/watch?v=73BC6SSTcB0">E se o plano A demorar? Uma reflexão... de @camilaloliveiraofficial</a><br/>24/09/2026</td></tr></table>
 <table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=XO1R37CR4Nc"><img width="200px" src="https://i.ytimg.com/vi/XO1R37CR4Nc/mqdefault.jpg"></a></td>
 <td width="800px"><a href="https://www.youtube.com/watch?v=XO1R37CR4Nc">Criando o site de um Gremio Academico com WP | Apprendendo com Camila | GCW</a><br/>30/08/2026</td></tr></table>
 <table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg"><img width="200px" src="https://i.ytimg.com/vi/JVBK44bkdAg/mqdefault.jpg"></a></td>
