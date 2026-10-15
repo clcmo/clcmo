@@ -165,11 +165,11 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/MonitoriaBNCC](https://github.com/clcmo/MonitoriaBNCC)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/MonitoriaBNCC](https://github.com/clcmo/MonitoriaBNCC)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/MonitoriaBNCC](https://github.com/clcmo/MonitoriaBNCC)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/MonitoriaBNCC](https://github.com/clcmo/MonitoriaBNCC)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/MonitoriaBNCC](https://github.com/clcmo/MonitoriaBNCC)<br>
+1. ❗️ Abriu a questão [#4](https://github.com/urbanna/playlistcreator/issues/4) em [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
+2. ❌ PR [#8](undefined) fechado em [possan/playlistcreator-example](https://github.com/possan/playlistcreator-example)<br>
+3. 💪 PR [#5](undefined) aberto em [clcmo/playlistcreator](https://github.com/clcmo/playlistcreator)<br>
+4. 💬 Comentou em [#2](https://github.com/urbanna/playlistcreator/issues/2#issuecomment-6181191100) em [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
+5. ✔️ Fechou a questão [#2](https://github.com/urbanna/playlistcreator/issues/2) em [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
