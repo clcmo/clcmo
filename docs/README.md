@@ -165,11 +165,11 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/camila-theme](https://github.com/clcmo/camila-theme)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/playlistcreator](https://github.com/clcmo/playlistcreator)<br>
+1. ⬆️ Enviou undefined commit(s) para [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
+2. ⬆️ Enviou undefined commit(s) para [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
 3. ⬆️ Enviou undefined commit(s) para [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
 4. ⬆️ Enviou undefined commit(s) para [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
-5. ⬆️ Enviou undefined commit(s) para [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
+5. 💪 PR [#13](undefined) aberto em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
