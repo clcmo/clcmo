@@ -168,8 +168,8 @@ Estágios Administração Pública              CETESB · RR Business
 1. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 2. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-4. ⬆️ Enviou undefined commit(s) para [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
-5. ⬆️ Enviou undefined commit(s) para [urbanna/playlistcreator](https://github.com/urbanna/playlistcreator)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
