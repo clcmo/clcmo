@@ -167,9 +167,9 @@ Estágios Administração Pública              CETESB · RR Business
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 2. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-3. 💬 Comentou em [#26](https://github.com/clcmo/ariston/pull/26#issuecomment-6229850532) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-4. ✌️ [ariston: v0.6.0](https://github.com/clcmo/ariston/releases/tag/ariston-v0.6.0) lançado em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-5. 💪 PR [#26](undefined) aberto em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
