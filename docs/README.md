@@ -165,11 +165,11 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Comentou em [#13](https://github.com/clcmo/ariston/pull/13#issuecomment-6225692247) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-2. ⭐ [clcmo/ariston](https://github.com/clcmo/ariston) marcado com estrela<br>
-3. 💬 Comentou em [#1](https://github.com/clcmo/ariston/pull/1#issuecomment-6226270332) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-4. ❌ PR [#1](undefined) fechado em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-5. ✌️ [ariston: v0.2.0](https://github.com/clcmo/ariston/releases/tag/ariston-v0.2.0) lançado em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+1. 💬 Comentou em [#26](https://github.com/clcmo/ariston/pull/26#issuecomment-6229850532) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+2. ✌️ [ariston: v0.6.0](https://github.com/clcmo/ariston/releases/tag/ariston-v0.6.0) lançado em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+3. 💪 PR [#26](undefined) aberto em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+4. 💪 PR [#25](undefined) aberto em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+5. 💬 Comentou em [#24](https://github.com/clcmo/ariston/pull/24#issuecomment-6229646472) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
