@@ -165,11 +165,11 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Comentou em [#26](https://github.com/clcmo/ariston/pull/26#issuecomment-6229850532) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-2. ✌️ [ariston: v0.6.0](https://github.com/clcmo/ariston/releases/tag/ariston-v0.6.0) lançado em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-3. 💪 PR [#26](undefined) aberto em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-4. 💪 PR [#25](undefined) aberto em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-5. 💬 Comentou em [#24](https://github.com/clcmo/ariston/pull/24#issuecomment-6229646472) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+3. 💬 Comentou em [#26](https://github.com/clcmo/ariston/pull/26#issuecomment-6229850532) em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+4. ✌️ [ariston: v0.6.0](https://github.com/clcmo/ariston/releases/tag/ariston-v0.6.0) lançado em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+5. 💪 PR [#26](undefined) aberto em [clcmo/ariston](https://github.com/clcmo/ariston)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
