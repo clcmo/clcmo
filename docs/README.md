@@ -165,11 +165,11 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/Walking](https://github.com/clcmo/Walking)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/Walking](https://github.com/clcmo/Walking)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/Walking](https://github.com/clcmo/Walking)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/Walking](https://github.com/clcmo/Walking)<br>
+4. ⭐ [clcmo/vetores-matrizes](https://github.com/clcmo/vetores-matrizes) marcado com estrela<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/vetores-matrizes](https://github.com/clcmo/vetores-matrizes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
