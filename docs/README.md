@@ -165,11 +165,11 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-4. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
-5. ⬆️ Enviou undefined commit(s) para [clcmo/ariston](https://github.com/clcmo/ariston)<br>
+1. ⭐ [clcmo/GasolinaEtanol](https://github.com/clcmo/GasolinaEtanol) marcado com estrela<br>
+2. ⭐ [clcmo/Walking](https://github.com/clcmo/Walking) marcado com estrela<br>
+3. ✔️ Fechou a questão [#2](https://github.com/clcmo/Walking/issues/2) em [clcmo/Walking](https://github.com/clcmo/Walking)<br>
+4. 💪 PR [#3](undefined) aberto em [clcmo/Walking](https://github.com/clcmo/Walking)<br>
+5. ❗️ Abriu a questão [#2](https://github.com/clcmo/Walking/issues/2) em [clcmo/Walking](https://github.com/clcmo/Walking)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
