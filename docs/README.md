@@ -168,7 +168,7 @@ Estágios Administração Pública              CETESB · RR Business
 1. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 2. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
-4. 💪 PR [#28](undefined) aberto em [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 <!--RECENT_ACTIVITY:end-->
 
