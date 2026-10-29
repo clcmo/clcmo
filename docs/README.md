@@ -189,10 +189,10 @@ Estágios Administração Pública              CETESB · RR Business
 
 ### 📝 No blog (em português)
 <!-- BLOG:START -->
+- [Eu, os cadernos e os notebooks](https://camilaloliveira.com/fala-mi/eu-os-cadernos-e-os-notebooks/)
 - [Uma nota rapida](https://camilaloliveira.com/fala-mi/uma-nota-rapida/)
 - [Pergunta da Rodada #3](https://camilaloliveira.com/fala-mi/pergunta-da-rodada-3/)
 - [Ei, sinal…](https://camilaloliveira.com/poemas-e-prosas/ei-sinal/)
-- [Deu trabalho, mas deu certo…](https://camilaloliveira.com/fala-mi/deu-trabalho-mas-deu-certo/)
 <!-- BLOG:END -->
 
 ### 🎥 No YouTube (em português)
