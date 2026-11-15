@@ -189,10 +189,10 @@ Estágios Administração Pública              CETESB · RR Business
 
 ### 📝 No blog (em português)
 <!-- BLOG:START -->
+- [A vida é… uma caixinha de som?](https://camilaloliveira.com/fala-mi/a-vida-e-uma-caixinha-de-som/)
 - [Eu, os cadernos e os notebooks](https://camilaloliveira.com/fala-mi/eu-os-cadernos-e-os-notebooks/)
 - [Uma nota rapida](https://camilaloliveira.com/fala-mi/uma-nota-rapida/)
 - [Pergunta da Rodada #3](https://camilaloliveira.com/fala-mi/pergunta-da-rodada-3/)
-- [Ei, sinal…](https://camilaloliveira.com/poemas-e-prosas/ei-sinal/)
 <!-- BLOG:END -->
 
 ### 🎥 No YouTube (em português)
