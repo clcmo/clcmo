@@ -16,7 +16,7 @@ Professora, licencianda em Física, escritora e desenvolvedora.
 
 <div align="center">
 
-<a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/raw/main/docs/images/lousa.svg" width="100%" alt="Lousa escrita: Oi, eu sou a Camila!" />
+<a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/raw/main/assets/img/lousa.svg" width="100%" alt="Lousa escrita: Oi, eu sou a Camila!" />
 </a>
 
 <br/>
