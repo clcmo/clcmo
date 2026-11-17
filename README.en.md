@@ -131,10 +131,21 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 
 ### On the blog
 <!-- BLOG:START -->
+- [A vida é… uma caixinha de som?](https://camilaloliveira.com/fala-mi/a-vida-e-uma-caixinha-de-som/)
+- [Eu, os cadernos e os notebooks](https://camilaloliveira.com/fala-mi/eu-os-cadernos-e-os-notebooks/)
+- [Uma nota rapida](https://camilaloliveira.com/fala-mi/uma-nota-rapida/)
+- [Pergunta da Rodada #3](https://camilaloliveira.com/fala-mi/pergunta-da-rodada-3/)
 <!-- BLOG:END -->
 
 ### On YouTube
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=eT4LP-ROwN4"><img width="200px" src="https://i.ytimg.com/vi/eT4LP-ROwN4/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=eT4LP-ROwN4">O que o SUS fez? / Como estruturar uma boa #redacaoenem? | Apprendendo com Camila</a><br/>09/11/2026</td></tr></table>
+<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=73BC6SSTcB0"><img width="200px" src="https://i.ytimg.com/vi/73BC6SSTcB0/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=73BC6SSTcB0">E se o plano A demorar? Uma reflexão... de @camilaloliveiraofficial</a><br/>24/09/2026</td></tr></table>
+<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=XO1R37CR4Nc"><img width="200px" src="https://i.ytimg.com/vi/XO1R37CR4Nc/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=XO1R37CR4Nc">Criando o site de um Gremio Academico com WP | Apprendendo com Camila | GCW</a><br/>30/08/2026</td></tr></table>
+<table><tr><td width="250px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg"><img width="200px" src="https://i.ytimg.com/vi/JVBK44bkdAg/mqdefault.jpg"></a></td>
+<td width="800px"><a href="https://www.youtube.com/watch?v=JVBK44bkdAg">A Trajetória Até a USP &lpar;Part. Rosanny Ayres&rpar; | Apprendendo com Camila</a><br/>03/08/2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 </details>
