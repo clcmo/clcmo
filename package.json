@@ -6,7 +6,7 @@
   "description": "Template de projeto com CI/CD, GitHub Pages, README gerado e versões em PT-BR e EN",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clcmo/template.git"
+    "url": "https://github.com/clcmo/clcmo.git"
   },
   "author": "Camila <milla@apprendendo.blog>",
   "license": "MIT",
