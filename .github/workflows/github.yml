@@ -6,14 +6,46 @@ on:
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
-jobs:
+permissions:
+  contents: write
 
+concurrency:
+  group: main-writes
+  cancel-in-progress: false
+
+jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: './.github/sample.yml'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run build:readme
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Commitar conteúdo e READMEs atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/pt-br.md README.md README.en.md
+          if git diff --cached --quiet; then
+            echo "Conteúdo e READMEs já estão atualizados."
+          else
+            git commit -m "docs: atualiza atividade recente"
+            git push
+          fi

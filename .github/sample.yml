@@ -2,7 +2,7 @@ settings:
   username: clcmo
   commit_msg: "⚡ Atualizar README com a atividade recente"
   max_lines: 5
-  readme_file: "./docs/README.md"
+  readme_file: "./content/pt-br.md"
   disabled_events:
     - "comentários"
   url_text: "{REPO}{ID}"

@@ -1,5 +1,5 @@
 ---
-name: Sugestão de Feature
+name: Sugestão de Feature (Português)
 about: Sugira uma nova funcionalidade para este projeto
 title: ''
 labels: ''

@@ -1,11 +1,13 @@
-# Links para doações do GitHub Sponsors e outras plataformas de financiamento coletivo.
+# Como obter apoio financeiro para o desenvolvimento deste projeto.
+# Veja https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+# para mais informações.
 
-# custom: https://apprendendo.blog/
-custom: https://dev.camilaloliveira.me/
+custom: [https://dev.camilaloliveira.me/, https://apprendendo.blog/]
 github: clcmo
 ko_fi: clcmo
+# patreon: clcmo
 
-# patreon: #
+# open_collective: #
 # tidelift: #
 # liberapay: #
 # paypal: #

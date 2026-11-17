@@ -3,33 +3,36 @@ run-name: Alguém publicou no site da ${{ github.actor }}
 
 on: 
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
   workflow_dispatch:
 
-jobs:
+permissions:
+  contents: write
 
-  update-blog:
-    name: ${{ github.actor }} is update her Feed
+concurrency:
+  group: main-writes
+  cancel-in-progress: false
+
+jobs:
+  update-feeds:
+    name: Atualizar feeds e READMEs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          readme_path : ./docs/README.md
+          readme_path: ./content/pt-br.md
           comment_tag_name: "BLOG"
           feed_list: "https://feeds.feedburner.com/camilaloliveira/feed"
           max_post_count: "4"
           remove_duplicates: true
-  
-  update-youtube: 
-    name: ${{ github.actor }} is update her YouTube
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          readme_path : ./docs/README.md
+          readme_path: ./content/pt-br.md
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCRJXkK-HE9N6sgaGd1JYuKw"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
@@ -37,4 +40,27 @@ jobs:
           template: '<table><tr><td width="250px"><a href="$url"><img width="200px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td width="800px"><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           max_post_count: "4"
           remove_duplicates: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run build:readme
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Commitar conteúdo e READMEs atualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/pt-br.md README.md README.en.md
+          if git diff --cached --quiet; then
+            echo "Conteúdo e READMEs já estão atualizados."
+          else
+            git commit -m "docs: atualiza feeds do perfil"
+            git push
+          fi
         

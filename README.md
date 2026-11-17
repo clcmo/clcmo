@@ -1,9 +1,22 @@
+<!-- ARQUIVO GERADO / GENERATED FILE — edite/edit content/pt-br.md e rode/run `npm run build:readme` -->
+
+🇧🇷 **Português** | 🇺🇸 [English](README.en.md)
+
+# Camila L. Oliveira
+
+[![License](https://img.shields.io/github/license/clcmo/clcmo?style=for-the-badge)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/clcmo/clcmo?style=for-the-badge)](https://github.com/clcmo/clcmo/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/clcmo/clcmo/ci.yml?style=for-the-badge&label=CI)](https://github.com/clcmo/clcmo/actions/workflows/ci.yml)
+[![Stars](https://img.shields.io/github/stars/clcmo/clcmo?style=for-the-badge)](https://github.com/clcmo/clcmo/stargazers)
+[![Forks](https://img.shields.io/github/forks/clcmo/clcmo?style=for-the-badge)](https://github.com/clcmo/clcmo/network)
+[![Issues](https://img.shields.io/github/issues/clcmo/clcmo?style=for-the-badge)](https://github.com/clcmo/clcmo/issues)
+[![Sponsors](https://img.shields.io/github/sponsors/clcmo?style=for-the-badge&color=pink)](https://github.com/sponsors/clcmo)
+
+Professora, licencianda em Física, escritora e desenvolvedora.
+
 <div align="center">
 
-<img src="https://github.com/clcmo/clcmo/raw/main/docs/images/lousa.svg" width="100%" alt="Lousa escrita: Oi, eu sou a Camila!" />
-
-<a href="https://taggo.one/clcmo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A6CF7&center=true&vCenter=true&width=560&lines=Professora;Licencianda+em+F%C3%ADsica+%40+USP;Escritora;Dev+Android+%7C+Web+%7C+Mobile" alt="Cargos e áreas de atuação" />
+<a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/raw/main/docs/images/lousa.svg" width="100%" alt="Lousa escrita: Oi, eu sou a Camila!" />
 </a>
 
 <br/>
@@ -12,8 +25,6 @@
 [![stdurb](https://img.shields.io/badge/stdurb-black?style=for-the-badge&logo=protodotio&logoColor=white)](https://std.ourbanna.com)
 [![Site Camila](https://img.shields.io/badge/SiteCamila-pink?style=for-the-badge&logo=southwestairlines&logoColor=white)](https://camilaloliveira.com)
 [![Urbanna](https://img.shields.io/badge/Urbanna-purple?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://ourbanna.com)
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 
 </div>
 

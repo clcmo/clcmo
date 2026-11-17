@@ -1,20 +1,47 @@
-# Security Policy
+🇧🇷 **Português** | 🇺🇸 [English](SECURITY.en.md)
 
-## Supported Versions
+# Política de Segurança
 
-The project is supported through the following browsers:
+## Versões Suportadas
 
-| Browser | Supported          |
-| ------- | ------------------ |
-| Firefox | :white_check_mark: |
-| Chrome  | :white_check_mark: |
-| Safari  | :white_check_mark: |
-| Edge    | :white_check_mark: |
+Apenas a versão mais recente recebe correções de segurança.
 
-## Reporting a Vulnerability
+| Versão             | Suportada          |
+| ------------------ | ------------------ |
+| Última release     | :white_check_mark: |
+| Versões anteriores | :x:                |
 
-Use this section to tell people how to report a vulnerability.
+## Reportar uma vulnerabilidade
 
-Report the [Issue Request](https://github.com/clcmo/clcmo/issues/new?assignees=&labels=&template=bug_report.md&title=), with details on the vulnerabilities found on the page.
+**Não abra uma issue pública para relatar vulnerabilidades.**
 
-A screenshot and a code snippet with the reported message are also valid.
+Use o [relato privado de vulnerabilidades](../../../security/advisories/new) do GitHub ou escreva para [dev@camilaloliveira.com](mailto:dev@camilaloliveira.com), incluindo:
+
+- Descrição detalhada da vulnerabilidade
+- Passos para reproduzir
+- Comportamento esperado
+- Comportamento atual
+- Ambiente (sistema operacional, versão do navegador, etc.)
+
+Depois do envio, a equipe analisa o relatório e entra em contato para combinar os próximos passos.
+
+## Processo de resposta a vulnerabilidades
+
+1. **Confirmação do relatório**: verificamos a validade do relatório.
+2. **Avaliação de risco**: avaliamos o impacto potencial.
+3. **Desenvolvimento de correção**: trabalhamos em uma correção.
+4. **Divulgação responsável**: informamos o reportante e, se aplicável, a comunidade sobre a vulnerabilidade e a correção.
+5. **Implementação da correção**: lançamos a correção em uma atualização oficial do projeto.
+6. **Revisão pós-implementação**: revisamos o processo para melhorar respostas futuras.
+
+## Política de divulgação
+
+Nosso objetivo é divulgar vulnerabilidades de forma responsável para proteger os usuários. Seguimos as boas práticas do setor para que as vulnerabilidades sejam tratadas de maneira segura e eficaz.
+
+## Contato
+
+Para dúvidas sobre esta política, escreva para [dev@camilaloliveira.com](mailto:dev@camilaloliveira.com).
+
+## Atualizações da política de segurança
+
+Esta política pode ser atualizada periodicamente. Recomendamos revisar esta página de tempos em tempos.

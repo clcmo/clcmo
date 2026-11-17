@@ -1,5 +1,5 @@
 ---
-name: Relato de Bug
+name: Relato de Bug (Português)
 about: Crie um relatório de bug para nos ajudar a melhorar
 title: ''
 labels: ''
@@ -39,3 +39,5 @@ Se aplicável, adicione capturas de tela para ajudar a explicar o seu problema.
 
 **Contexto adicional**
 Adicione aqui qualquer outro contexto sobre o problema.
+
+<!-- Obrigado por contribuir! Por favor, preencha as informações acima para que possamos ajudar da melhor forma possível. -->

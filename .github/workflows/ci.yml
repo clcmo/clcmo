@@ -1,0 +1,43 @@
+name: Generate CI artifacts
+run-name: CI em ${{ github.ref_name }} por ${{ github.actor }}
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build (README + site)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # Falha se content/pt-br.md e content/en.md tiverem estruturas diferentes
+      # ou campos obrigatórios ausentes.
+      - name: Gerar READMEs
+        run: npm run build:readme
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Verificar READMEs versionados
+        run: git diff --exit-code -- README.md README.en.md
+
+      - name: Gerar site
+        run: npm run build:site
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}

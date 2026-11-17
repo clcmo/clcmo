@@ -1,0 +1,28 @@
+{
+  "name": "template-clcmo",
+  "version": "0.0.0-development",
+  "private": true,
+  "type": "module",
+  "description": "Template de projeto com CI/CD, GitHub Pages, README gerado e versões em PT-BR e EN",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clcmo/template.git"
+  },
+  "author": "Camila <milla@apprendendo.blog>",
+  "license": "MIT",
+  "engines": {
+    "node": "^22.14.0 || >=24.10.0"
+  },
+  "scripts": {
+    "build:readme": "node scripts/build-readme.mjs",
+    "build:site": "node scripts/build-site.mjs",
+    "build": "npm run build:readme && npm run build:site",
+    "release": "semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^7.0.0",
+    "@semantic-release/git": "^11.0.1",
+    "marked": "^18.1.3",
+    "semantic-release": "^25.0.9"
+  }
+}
