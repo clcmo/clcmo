@@ -127,6 +127,11 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+1. Pushed undefined commit(s) to [clcmo/MonitoriaBNCC](https://github.com/clcmo/MonitoriaBNCC)<br>
+2. Pushed undefined commit(s) to [clcmo/camila-theme](https://github.com/clcmo/camila-theme)<br>
+3. Starred [gustavoguanabara/gta](https://github.com/gustavoguanabara/gta)<br>
+4. Starred [sibelius/homem-que-calculava](https://github.com/sibelius/homem-que-calculava)<br>
+5. Pushed undefined commit(s) to [clcmo/MonitoriaBNCC](https://github.com/clcmo/MonitoriaBNCC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### On the blog
