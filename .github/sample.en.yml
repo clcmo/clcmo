@@ -1,0 +1,33 @@
+settings:
+  username: clcmo
+  commit_msg: "Update profile activity"
+  max_lines: 5
+  readme_file: "./content/en.md"
+  disabled_events:
+    - "comments"
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT-03:00"
+    text: "Last update: {DATE}"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  commit_name: "readme-bot"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  line_prefix: "{NUM}. "
+  ignored_repos:
+    - clcmo/clcmo
+messages:
+  comments: "Commented on {ID} in {REPO}"
+  push: "Pushed {AMOUNT} commit(s) to {REPO}"
+  issue_opened: "Opened issue {ID} in {REPO}"
+  issue_closed: "Closed issue {ID} in {REPO}"
+  pr_opened: "Opened PR {ID} in {REPO}"
+  pr_closed: "Closed PR {ID} in {REPO}"
+  pr_merged: "Merged PR {ID}"
+  create_repo: "Created {REPO}"
+  fork_repo: "Forked {FORK}"
+  wiki_create: "Created wiki page {WIKI}"
+  added_member: "Became a collaborator"
+  changes_approved: "Approved {ID}"
+  changes_requested: "Requested changes on {ID}"
+  new_release: "Released {ID}"
+  new_star: "Starred {REPO}"

@@ -114,6 +114,17 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 <details open>
   <summary><h2>Camila's Updates</h2></summary>
 
-Blog and YouTube activity will be displayed here.
+### Recent activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+### On the blog
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+### On YouTube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 </details>

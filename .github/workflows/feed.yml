@@ -41,6 +41,25 @@ jobs:
           max_post_count: "4"
           remove_duplicates: true
 
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path: ./content/en.md
+          comment_tag_name: "BLOG"
+          feed_list: "https://feeds.feedburner.com/camilaloliveira/feed"
+          max_post_count: "4"
+          remove_duplicates: true
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          readme_path: ./content/en.md
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCRJXkK-HE9N6sgaGd1JYuKw"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "dd/mm/yyyy"
+          template: '<table><tr><td width="250px"><a href="$url"><img width="200px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td width="800px"><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          max_post_count: "4"
+          remove_duplicates: true
+
       - uses: actions/setup-node@v4
         with:
           node-version: 24
@@ -56,7 +75,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/pt-br.md README.md README.en.md
+          git add content/pt-br.md content/en.md README.md README.en.md
           if git diff --cached --quiet; then
             echo "Conteúdo e READMEs já estão atualizados."
           else
