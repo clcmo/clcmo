@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oi,%20Eu%20Sou%20A%20Camila!&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="docs/images/lousa-oi.svg" width="100%" alt="Lousa escrita: Oi, eu sou a Camila!" />
 
 <a href="https://taggo.one/clcmo">
-  <img src="https://github.com/clcmo/clcmo/blob/main/docs/images/memoji_mi.png?raw=true" width="100" alt="Memoji" style="border-radius:50%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A6CF7&center=true&vCenter=true&width=560&lines=Professora;Licencianda+em+F%C3%ADsica+%40+USP;Escritora;Dev+Android+%7C+Web+%7C+Mobile" alt="Cargos e áreas de atuação" />
 </a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A6CF7&center=true&vCenter=true&width=560&lines=Professora+%40+ETEC+Bartolomeu;Licencianda+em+F%C3%ADsica+%40+USP;Escritora;Dev+Android+%7C+Web+%7C+Mobile" alt="Typing SVG" />
 
 <br/>
 
@@ -16,6 +14,36 @@
 [![Urbanna](https://img.shields.io/badge/Urbanna-purple?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://ourbanna.com)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏫 Sala de Aula Tech
+
+[![Ensino técnico](https://img.shields.io/badge/Ensino-T%C3%A9cnico-2F80ED?style=for-the-badge&logo=googleclassroom&logoColor=white)](#sala-de-aula-tech)
+[![Aprendizagem baseada em projetos](https://img.shields.io/badge/ABP-Projetos-8A6CF7?style=for-the-badge&logo=github&logoColor=white)](#sala-de-aula-tech)
+[![Tecnologia e inovação](https://img.shields.io/badge/Tecnologia-Inova%C3%A7%C3%A3o-20B2AA?style=for-the-badge&logo=computer&logoColor=white)](#sala-de-aula-tech)
+
+</div>
+
+| 💻 Trilhas | 🚀 Experiências | 🧠 Competências |
+|:---:|:---:|:---:|
+| Desenvolvimento Web | Laboratórios com HTML, CSS e JavaScript | Lógica e resolução de problemas |
+| Desenvolvimento Mobile | Protótipos Android e apps de interesse real | UX, acessibilidade e testes |
+| Banco de Dados | Modelagem, consultas e dados para decisões | Organização e pensamento analítico |
+| Git e colaboração | Projetos em equipe com issues e pull requests | Trabalho colaborativo e autoria |
+| Inteligência Artificial | Experimentação crítica e projetos com IA | Ética, segurança e criatividade |
+
+<div align="center">
+
+> **Missão da sala:** transformar tecnologia em uma ferramenta para criar, investigar e resolver problemas reais.
+
+[![Aulas](https://img.shields.io/badge/📚_Aulas-Projetos-2563EB?style=flat-square)](#-tecnologias-e-skills)
+[![Laboratórios](https://img.shields.io/badge/🧪_Labs-Prática-0F766E?style=flat-square)](#-tecnologias-e-skills)
+[![Comunidade](https://img.shields.io/badge/🤝_Turmas-Colaboração-9333EA?style=flat-square)](#-sobre-mim)
 
 </div>
 
@@ -207,4 +235,3 @@ Estágios Administração Pública              CETESB · RR Business
 <!-- YOUTUBE:END -->
 
 </details>
-</picture>
