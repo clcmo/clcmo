@@ -27,6 +27,12 @@ jobs:
         with:
           CONFIG_FILE: './.github/sample.yml'
 
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: './.github/sample.en.yml'
+
       - uses: actions/setup-node@v4
         with:
           node-version: 24
@@ -42,7 +48,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/pt-br.md README.md README.en.md
+          git add content/pt-br.md content/en.md README.md README.en.md
           if git diff --cached --quiet; then
             echo "Conteúdo e READMEs já estão atualizados."
           else
