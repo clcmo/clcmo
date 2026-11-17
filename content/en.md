@@ -121,6 +121,10 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 
 ### On the blog
 <!-- BLOG:START -->
+- [A vida é… uma caixinha de som?](https://camilaloliveira.com/fala-mi/a-vida-e-uma-caixinha-de-som/)
+- [Eu, os cadernos e os notebooks](https://camilaloliveira.com/fala-mi/eu-os-cadernos-e-os-notebooks/)
+- [Uma nota rapida](https://camilaloliveira.com/fala-mi/uma-nota-rapida/)
+- [Pergunta da Rodada #3](https://camilaloliveira.com/fala-mi/pergunta-da-rodada-3/)
 <!-- BLOG:END -->
 
 ### On YouTube
