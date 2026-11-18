@@ -117,11 +117,11 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
-2. Pushed undefined commit(s) to [clcmo/hello](https://github.com/clcmo/hello)<br>
+1. Released [First Version](https://github.com/clcmo/Click/releases/tag/0.1.0)<br>
+2. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 3. Pushed undefined commit(s) to [clcmo/hello](https://github.com/clcmo/hello)<br>
-4. Approved [#33](https://github.com/clcmo/Mi_Music/pull/33#pullrequestreview-5948965754)<br>
-5. Approved [#36](https://github.com/clcmo/Mi_Music/pull/36#pullrequestreview-5948828520)<br>
+4. Pushed undefined commit(s) to [clcmo/hello](https://github.com/clcmo/hello)<br>
+5. Approved [#33](https://github.com/clcmo/Mi_Music/pull/33#pullrequestreview-5948965754)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### On the blog
