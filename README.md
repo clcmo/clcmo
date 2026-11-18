@@ -204,11 +204,11 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/hello](https://github.com/clcmo/hello)<br>
+1. ✌️ [First Version](https://github.com/clcmo/Click/releases/tag/0.1.0) lançado em [clcmo/Click](https://github.com/clcmo/Click)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/hello](https://github.com/clcmo/hello)<br>
-4. 👍 [#33](https://github.com/clcmo/Mi_Music/pull/33#pullrequestreview-5948965754) aprovado em [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
-5. 👍 [#36](https://github.com/clcmo/Mi_Music/pull/36#pullrequestreview-5948828520) aprovado em [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/hello](https://github.com/clcmo/hello)<br>
+5. 👍 [#33](https://github.com/clcmo/Mi_Music/pull/33#pullrequestreview-5948965754) aprovado em [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
