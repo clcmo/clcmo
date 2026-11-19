@@ -204,8 +204,8 @@ Estágios Administração Pública              CETESB · RR Business
 ### 🕹️ Atividade recente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Enviou undefined commit(s) para [clcmo/template](https://github.com/clcmo/template)<br>
-2. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+1. ⬆️ Enviou undefined commit(s) para [clcmo/simple-icons](https://github.com/clcmo/simple-icons)<br>
+2. ⬆️ Enviou undefined commit(s) para [clcmo/template](https://github.com/clcmo/template)<br>
 3. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 4. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 5. ⬆️ Enviou undefined commit(s) para [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
