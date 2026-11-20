@@ -117,10 +117,10 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed undefined commit(s) to [clcmo/simple-icons](https://github.com/clcmo/simple-icons)<br>
-2. Pushed undefined commit(s) to [clcmo/template](https://github.com/clcmo/template)<br>
-3. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
-4. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
+1. Pushed undefined commit(s) to [clcmo/hello](https://github.com/clcmo/hello)<br>
+2. Pushed undefined commit(s) to [clcmo/hello](https://github.com/clcmo/hello)<br>
+3. Pushed undefined commit(s) to [clcmo/simple-icons](https://github.com/clcmo/simple-icons)<br>
+4. Pushed undefined commit(s) to [clcmo/template](https://github.com/clcmo/template)<br>
 5. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 <!--RECENT_ACTIVITY:end-->
 
