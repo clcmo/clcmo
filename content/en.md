@@ -117,11 +117,11 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
-2. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
-3. Pushed undefined commit(s) to [clcmo/template](https://github.com/clcmo/template)<br>
-4. Pushed undefined commit(s) to [clcmo/urban-neon-clean-theme](https://github.com/clcmo/urban-neon-clean-theme)<br>
-5. Pushed undefined commit(s) to [clcmo/urban-neon-clean-theme](https://github.com/clcmo/urban-neon-clean-theme)<br>
+1. Pushed undefined commit(s) to [clcmo/urban-neon-clean-theme](https://github.com/clcmo/urban-neon-clean-theme)<br>
+2. Opened issue [#3](https://github.com/clcmo/latex/issues/3) in [clcmo/latex](https://github.com/clcmo/latex)<br>
+3. Released [2.1.0](https://github.com/clcmo/latex/releases/tag/2.1.0)<br>
+4. Approved [#2](https://github.com/clcmo/latex/pull/2#pullrequestreview-6082763894)<br>
+5. Pushed undefined commit(s) to [clcmo/Mi_Music](https://github.com/clcmo/Mi_Music)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### On the blog
