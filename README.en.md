@@ -129,9 +129,9 @@ I have a degree in Systems Analysis and Development from FATEC-SP and in Public 
 <!--RECENT_ACTIVITY:start-->
 1. Pushed undefined commit(s) to [clcmo/latex](https://github.com/clcmo/latex)<br>
 2. Pushed undefined commit(s) to [clcmo/latex](https://github.com/clcmo/latex)<br>
-3. Pushed undefined commit(s) to [clcmo/urban-neon-clean-theme](https://github.com/clcmo/urban-neon-clean-theme)<br>
-4. Opened issue [#3](https://github.com/clcmo/latex/issues/3) in [clcmo/latex](https://github.com/clcmo/latex)<br>
-5. Released [2.1.0](https://github.com/clcmo/latex/releases/tag/2.1.0)<br>
+3. Pushed undefined commit(s) to [clcmo/latex](https://github.com/clcmo/latex)<br>
+4. Pushed undefined commit(s) to [clcmo/latex](https://github.com/clcmo/latex)<br>
+5. Pushed undefined commit(s) to [clcmo/urban-neon-clean-theme](https://github.com/clcmo/urban-neon-clean-theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### On the blog
