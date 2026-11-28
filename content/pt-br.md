@@ -196,9 +196,9 @@ Estágios Administração Pública              CETESB · RR Business
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Enviou undefined commit(s) para [clcmo/latex](https://github.com/clcmo/latex)<br>
 2. ⬆️ Enviou undefined commit(s) para [clcmo/latex](https://github.com/clcmo/latex)<br>
-3. ⬆️ Enviou undefined commit(s) para [clcmo/urban-neon-clean-theme](https://github.com/clcmo/urban-neon-clean-theme)<br>
-4. ❗️ Abriu a questão [#3](https://github.com/clcmo/latex/issues/3) em [clcmo/latex](https://github.com/clcmo/latex)<br>
-5. ✌️ [2.1.0](https://github.com/clcmo/latex/releases/tag/2.1.0) lançado em [clcmo/latex](https://github.com/clcmo/latex)<br>
+3. ⬆️ Enviou undefined commit(s) para [clcmo/latex](https://github.com/clcmo/latex)<br>
+4. ⬆️ Enviou undefined commit(s) para [clcmo/latex](https://github.com/clcmo/latex)<br>
+5. ⬆️ Enviou undefined commit(s) para [clcmo/urban-neon-clean-theme](https://github.com/clcmo/urban-neon-clean-theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <div align="center">
